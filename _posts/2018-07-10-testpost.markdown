@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Test Post"
+---
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit mollitia dolorum, ratione voluptas deserunt labore minus ut vitae error odit ipsa, nisi quasi praesentium quod at fugit qui, sit et.
