@@ -1,0 +1,15 @@
+// Site Header Styles
+
+.site-header {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+
+	.site-nav {
+		display: flex;
+		justify-content: space-between;
+
+		a {
+			padding: 1rem;
+		}
+	}
+}

@@ -1,0 +1,25 @@
+html {
+	box-sizing: border-box;
+	font-family: $base-font-family;
+	font-size: 16px;	
+}
+
+body {
+	padding: 3rem;
+}
+
+
+// Typography
+
+h1, h2, h3, h4, h5 {
+	font-family: $base-font-family;
+}
+
+p {
+	font-family: $copy-font-family;
+}
+
+a {
+	text-decoration: none;
+	color: $font-color;
+}

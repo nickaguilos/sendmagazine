@@ -1,0 +1,21 @@
+
+// Import from TypeKit
+@import url("https://use.typekit.net/agm1ijz.css");
+
+$base-font-family: 'halyard-text', sans-serif;
+$copy-font-family: 'ff-meta-serif-web-pro', serif;
+$base-color: #000;
+$font-color: #111;
+
+
+@import 
+	'send/base',
+ 	'send/section-header',
+ 	'send/page-post';
+
+@media screen and (min-width: 1000px) {
+  	html {
+    	font-size: 22px;
+  	}
+}
+

@@ -1,0 +1,17 @@
+<header class="site-header" role="banner">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">Logo</a>
+
+    <nav class="site-nav">
+        <div>
+            <a href="{{ "/" | relative_url }}">Home</a>
+            <a href="">About</a>
+            <a href="">Directory</a>
+        </div>
+        <div class="social">
+            <a href="">Instagram</a>
+            <a href="">Facebook</a>
+        </div>
+    </nav>
+</header>
