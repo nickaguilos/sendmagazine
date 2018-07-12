@@ -1,0 +1,10 @@
+// Site Footer Styles
+
+#site-footer {
+	display: flex;
+	justify-content: space-between;
+
+	border-top: 1px solid $border-color;
+	padding-top: 1rem;
+	margin-top: 3rem;
+}

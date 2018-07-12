@@ -3,36 +3,45 @@ layout: default
 ---
 
 <div class="home">
-    {%- if page.title -%}
-        <h1 class="page-heading">{{ page.title }}</h1>
-    {%- endif -%}
+    <!-- Featured Article -->
+    <div id="featured">
+        <div class="content">
+            <h3>Big Title</h3>
+            <h4>Lorem ipsum dolor sit amet.</h4>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. A alias nam consectetur velit atque adipisci eos id optio illo autem.
+            </p>
+        </div>
+    </div>
 
     {{ content }}
 
 
 
     {%- if site.posts.size > 0 -%}
-        <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
         <ul class="post-list">
+            <h2>More Articles</h2>
             {%- for post in site.posts -%}
             <li>
-                test
-                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                <span class="post-meta">{{ post.date | date: date_format }}</span>
-        
-                <h3>
-                    <a class="post-link" href="{{ post.url | relative_url }}">
-                        {{ post.title | escape }}
-                    </a>
-                </h3>
-                {%- if site.show_excerpts -%}
+                <div>
+                    <h3>
+                        <a class="post-link" href="{{ post.url | relative_url }}">
+                            {{ post.title | escape }}
+                        </a>
+                    </h3>
+                    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                    <span class="post-meta">{{ post.date | date: date_format }}</span> 
+                    <span class="author">{{ site[page.author] }}</span>
+                    
                     {{ post.excerpt }}
-                {%- endif -%}
+                </div>
+
+                <div>
+                    <img src="http://placehold.it/200x200" alt="">
+                </div>
             </li>
             {%- endfor -%}
         </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
     {%- endif -%}
 
 </div>

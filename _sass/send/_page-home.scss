@@ -1,0 +1,54 @@
+// Homepage Styles
+
+.home {
+	display: grid;
+	grid-gap: 3%;
+	grid-template-columns: repeat(12, 1fr);
+	
+	#featured {
+		min-height: 600px;
+		background-image: url('https://source.unsplash.com/DiUz3I1iAt4/1600x900');
+		background-size: cover;
+		grid-column: 1/13;
+		text-align: center;
+		color: #fff;
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-end;
+		align-items: center;
+		padding-bottom: 5rem;
+
+		h3, h4 {
+			margin: 0;
+		}
+
+		.content {
+			max-width: 800px;
+		}
+	}
+
+	h2 {
+		font-size: 1.5rem;
+		text-transform: uppercase;
+	}
+
+	.post-list {
+		grid-column: 3/11;
+		list-style: none;
+
+		h3 {
+			font-size: 2rem;
+			margin: 0;
+		}
+
+		li {
+			margin-top: 3rem;
+			display: flex;
+			align-items: center;
+
+			> div:first-child {
+				padding-right: 1rem;
+			}
+		}
+	}
+}

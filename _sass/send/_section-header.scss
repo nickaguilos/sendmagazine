@@ -1,8 +1,9 @@
 // Site Header Styles
 
 .site-header {
-	display: grid;
-	grid-template-columns: repeat(2, 1fr);
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 4rem;
 
 	.site-nav {
 		display: flex;
@@ -11,5 +12,9 @@
 		a {
 			padding: 1rem;
 		}
+	}
+
+	.site-title {
+		flex-basis: auto;
 	}
 }
