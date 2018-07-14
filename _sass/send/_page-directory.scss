@@ -1,0 +1,25 @@
+// Directory Styles
+
+.directory {
+	article {
+		margin: 3rem 0;
+		border-bottom: 1px dotted $border-color;
+		padding-bottom: 3rem;
+	}
+	h2 {
+		font-size: 1.6rem;
+		margin: 0;
+
+		span {
+			font-weight: 400;
+		}
+	}
+
+	.rates {
+		margin-top: 1rem;
+		span {
+			display: inline-block;
+			margin-right: 3rem;
+		}
+	}
+}
