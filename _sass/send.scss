@@ -4,7 +4,7 @@
 
 $base-font-family: 'halyard-text', sans-serif;
 $copy-font-family: 'helvetica', serif;
-$article-font-family: 'ff-meta-serif-web-pro', serif;
+$article-font-family: 'skolar-latin', serif;
 $base-color: #000;
 $font-color: #111;
 $border-color: #aaa;
@@ -15,7 +15,8 @@ $border-color: #aaa;
  	'send/section-header',
  	'send/section-footer',
  	'send/page-home',
- 	'send/page-post';
+ 	'send/page-post',
+  'send/page-directory';
 
 @media screen and (min-width: 320px) {
   	html {
