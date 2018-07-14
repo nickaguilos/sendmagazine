@@ -7,7 +7,7 @@
 	
 	#featured {
 		min-height: 600px;
-		background-image: url('https://source.unsplash.com/DiUz3I1iAt4/1600x900');
+		background: url('https://source.unsplash.com/DiUz3I1iAt4/1600x900') $border-color;
 		background-size: cover;
 		grid-column: 1/13;
 		text-align: center;

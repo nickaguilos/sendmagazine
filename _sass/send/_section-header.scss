@@ -4,6 +4,13 @@
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 4rem;
+	align-items: center;
+
+	.logo {
+		img { 
+			width: 100px;
+		}
+	}
 
 	.site-nav {
 		display: flex;
