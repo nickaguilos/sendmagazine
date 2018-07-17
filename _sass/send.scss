@@ -3,8 +3,8 @@
 @import url("https://use.typekit.net/agm1ijz.css");
 
 $base-font-family: 'halyard-text', sans-serif;
-$copy-font-family: 'helvetica', serif;
-$article-font-family: 'skolar-latin', serif;
+$copy-font-family: 'acumin-pro', sans-serif;
+$article-font-family: 'acumin-pro', sans-serif;
 $base-color: #000;
 $font-color: #111;
 $border-color: #aaa;
@@ -23,9 +23,9 @@ $border-color: #aaa;
     	font-size: calc(16px + 6 * ((100vw - 320px) / 680));
   	}
 
-	body {
-  		padding: 1rem;
-  	}
+	// body {
+ //  		padding: 1rem;
+ //  	}
 }
 
 @media screen and (min-width: 1000px) {
@@ -33,8 +33,8 @@ $border-color: #aaa;
     	font-size: 18px;
   	}
 
-  	body {
-  		padding: 3rem;
-  	}
+  	// body {
+  	// 	padding: 3rem;
+  	// }
 }
 
