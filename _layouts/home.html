@@ -5,12 +5,17 @@ layout: default
 <div class="home">
     <!-- Featured Article -->
     <div id="featured">
-        <div class="content">
-            <h3>Big Title</h3>
-            <h4>Lorem ipsum dolor sit amet.</h4>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. A alias nam consectetur velit atque adipisci eos id optio illo autem.
-            </p>
+        <div>
+            <div class="image">
+                <img src="assets/images/homepage/featured-bukidnon.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Bukidnon</h3>
+                <h4>The Philippines' Climbing Capital</h4>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia unde porro eveniet ad omnis. Nesciunt eveniet repellat necessitatibus, unde tenetur nobis animi reiciendis, sed? Beatae ab, quas explicabo dolor similique maxime quaerat eligendi numquam. Labore fugiat qui dolorum temporibus, quod reiciendis odit rem sit ullam est tempore illo officiis, eum.
+                </p>
+            </div>
         </div>
     </div>
 
@@ -20,8 +25,48 @@ layout: default
 
     {%- if site.posts.size > 0 -%}
         <ul class="post-list">
-            <h2>More Articles</h2>
-            {%- for post in site.posts -%}
+            <h2 class="section-heading">More Articles</h2>
+            <div class="article-2-span">
+                {%- for post in site.posts limit: 2 -%}
+                <li>
+                    <div>
+                        <h3>
+                            <a class="post-link" href="{{ post.url | relative_url }}">
+                                {{ post.title | escape }}
+                            </a>
+                        </h3>
+                        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                        <span class="post-meta">{{ post.date | date: date_format }}</span> 
+                        <span class="author">{{ site[page.author] }}</span>
+                        
+                        {{ post.excerpt }}
+                    </div>
+                </li>
+                {%- endfor -%}
+            </div>
+        </ul>
+    {%- endif -%}
+
+    <!-- Featured Photo -->
+    <section class="featured-photo">
+        <div class="content">
+            <h2 class="section-heading">Featured Photos</h2>
+            <h3>National Bouldering Competitions 2018</h3>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, unde provident quidem ullam, modi iusto debitis quas, eum ipsa culpa ipsam, accusamus praesentium. Recusandae, quae maxime. Nesciunt voluptatum, quod labore.
+            </p>
+        </div>
+
+        <div class="img-row">
+            <img src="assets/images/homepage/featured-photo-1.jpg" alt="">
+            <img src="assets/images/homepage/featured-photo-2.jpg" alt="">
+        </div>
+    </section>
+
+    <!-- Article Last Row -->
+    <section class="post-list">
+        <div class="article-3-span">
+            {%- for post in site.posts limit: 2 -%}
             <li>
                 <div>
                     <h3>
@@ -35,13 +80,9 @@ layout: default
                     
                     {{ post.excerpt }}
                 </div>
-
-                <div>
-                    <img src="http://placehold.it/200x200" alt="">
-                </div>
             </li>
             {%- endfor -%}
-        </ul>
-    {%- endif -%}
+        </div>
+    </section>
 
 </div>

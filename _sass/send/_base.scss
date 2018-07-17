@@ -1,6 +1,6 @@
 html {
 	box-sizing: border-box;
-	font-family: $base-font-family;
+	font-family: $copy-font-family;
 	font-size: 16px;	
 }
 
@@ -9,13 +9,14 @@ body {
 }
 
 .fixed-width-container {
-	max-width: 1000px;
+	max-width: 1200px;
 	margin: 0 auto;
 }
 
 img {
 	background-color: $border-color;
-	min-height: 100px;
+	// min-height: 100px;
+	width: 100%;
 }
 
 
@@ -58,4 +59,27 @@ a {
 .section-heading {
 	@extend h4;
 	font-family: 'acumin-pro-condensed', sans-serif;
+}
+
+// Layout 
+.article-2-span {
+	display: grid;
+	grid-template-columns: repeat(12, 1fr);
+	grid-gap: 1rem;
+	align-items: baseline;
+
+	> li:first-child {
+		grid-column: 1/9;
+	}
+
+	> li:nth-child(2) {
+		grid-column: 9/13;
+	}
+}
+
+.article-3-span {
+	display: grid;
+	grid-template-columns: repeat(12, 1fr);
+	grid-gap: 1rem;
+	align-items: baseline;
 }
