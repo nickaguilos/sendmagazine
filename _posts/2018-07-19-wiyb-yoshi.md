@@ -3,6 +3,7 @@ layout: post
 title: "What's in your bag, Yoshi?"
 author: Michelle Co
 tag: other-articles
+excerpt: In this article, we talked to Japanese climber and frequent traveller Yoshimasa Shiraiwa about what he carries in his gym bag.
 ---
 
 In this article, we talked to Japanese climber and frequent traveller Yoshimasa Shiraiwa about what he carries in his gym bag. We caught him during one of his visits to Power Up Cubao/Centro Atletico(?), and went through the items that he regularly brings to the climbing gym. Since he’s never in one place for too long, we thought that he might have some interesting items with him that he might be able to share with us. 
