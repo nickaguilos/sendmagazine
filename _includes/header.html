@@ -1,7 +1,7 @@
 <header class="site-header fixed-width-container" role="banner">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="logo" rel="author" href="{{ "/" | relative_url }}">
+    <a class="logo" rel="author" href="{{ "/" }}">
         <img src="{{ '/assets/logos/logo-white-bg.jpg' | relative_url }}" alt="">
     </a>
 
