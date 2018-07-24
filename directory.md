@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="directory fixed-width-container">
-	<h1 class="section-heading">Gym Directories</h1>
+	<h1 class="section-heading">GYM DIRECTORIES</h1>
 
 	<article>
 		<h2>Guru Rock Climbing Gym <span>Cagayan De Oro City</span></h2>
