@@ -13,6 +13,10 @@ body {
 	margin: 0 auto;
 }
 
+.flex-wrapper {
+	display: flex;
+}
+
 img {
 	background-color: $border-color;
 	// min-height: 100px;

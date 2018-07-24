@@ -8,11 +8,16 @@
 	#featured {
 		background-color: $base-color;
 		grid-column: 1/13;
+		margin-bottom: 3rem;
 		color: #fff;
 		font-size: 16px;
 
 		h3, h4 {
 			margin: 0;
+		}
+
+		a {
+			color: #fff;
 		}
 
 		h4 {
@@ -59,6 +64,13 @@
 			display: flex;
 			align-items: center;
 		}
+
+		.article {
+			margin: 1em;
+			&:first-of-type {
+				margin-left: 0;
+			}
+		}
 	}
 
 	.featured-photo {
@@ -84,5 +96,11 @@
 		}
 
 
+	}
+}
+
+@media screen and (max-width: 500px) {
+	.flex-wrapper,  {
+		flex-direction: column;
 	}
 }
