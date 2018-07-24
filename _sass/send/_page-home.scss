@@ -97,10 +97,31 @@
 
 
 	}
-}
 
-@media screen and (max-width: 500px) {
-	.flex-wrapper,  {
-		flex-direction: column;
+	@media screen and (max-width: 500px) {
+		.flex-wrapper,  {
+			flex-direction: column;
+		}
+
+		.post-list, .featured-photo {
+			grid-column: 1/13;
+			padding: 2em;
+		}
+
+		.
+
+		.featured-photo, #featured {
+			margin: 0;
+		}
+
+		.featued-photo {
+			h3 {
+				font-size: 2rem;
+			}
+		}
+
+		.article {
+			margin: 0 !important;
+		}
 	}
 }
