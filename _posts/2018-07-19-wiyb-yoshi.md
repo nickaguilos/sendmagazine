@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What's in your bag, Yoshi?"
+author: Michelle Co
 tag: other-articles
 ---
 

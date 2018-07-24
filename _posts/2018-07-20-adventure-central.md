@@ -3,7 +3,6 @@ layout: post
 title: "Story: Adventure Central"
 author: Nick Aguilos
 tag: other-articles
-excerpt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus sed eligendi libero, optio sit veniam, sapiente nostrum aut quod quas distinctio iure, corporis! Veritatis laboriosam vel praesentium nesciunt quisquam quod.
 ---
 
 Along the banks of the Iloilo River is a climbing gym that aims to spread the outdoor sports mentality to a wider audience in Iloilo.

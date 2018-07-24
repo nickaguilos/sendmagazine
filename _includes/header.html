@@ -2,7 +2,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="logo" rel="author" href="{{ "/" | relative_url }}">
-        <img src="{{ '/assets/logos/logo-white-bg.jpg' | absolute_url }}" alt="">
+        <img src="{{ '/assets/logos/logo-white-bg.jpg' | relative_url }}" alt="">
     </a>
 
     <nav class="site-nav">
