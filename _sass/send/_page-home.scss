@@ -95,13 +95,13 @@
 	}
 
 	@media screen and (max-width: 500px) {
-		.flex-wrapper  {
+		.flex-wrapper {
 			flex-direction: column;
 		}
 
 		.post-list, .featured-photo {
 			grid-column: 1/13;
-			padding: 2em;
+			padding: 1em;
 		}
 
 		.featured-photo, #featured {
