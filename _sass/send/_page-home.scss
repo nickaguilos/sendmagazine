@@ -23,8 +23,9 @@
 		h4 {
 			font-family: $copy-font-family;
 			font-weight: 400;
-			font-size: 30px;
+			font-size: 1.5rem;
 			margin-top: -10px;
+			margin-bottom: 4rem;
 		}
 
 		& > div {
@@ -69,6 +70,10 @@
 				margin-left: 0;
 			}
 		}
+	}
+
+	.date-author {
+		opacity: 0.5;
 	}
 
 	.featured-photo {

@@ -58,6 +58,11 @@ p {
 a {
 	text-decoration: none;
 	color: $font-color;
+	transition: color 0.4s;
+
+	&:hover {
+		color: $border-color !important;
+	}
 }
 
 .section-heading {

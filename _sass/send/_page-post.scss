@@ -14,14 +14,24 @@
 	}
 
 	.post-content {
-		// display: grid;
-		// grid-template-columns: repeat(12, 1fr);
-		// grid-gap: 1em;
+		width: 1000px;
+		margin: 0 auto;
 
-		p {
+		h2 {
+			font-size: 2rem;
+			margin-bottom: 5rem;
+			font-weight: 400;
+			text-align: center;
+		}
+
+		p, h5 {
 			margin: 1.5rem auto;
 			max-width: 700px;
 			font-family: $article-font-family;
+		}
+
+		h5 {
+			margin-top: 2.5rem;
 		}
 
 		.img-wrapper {
