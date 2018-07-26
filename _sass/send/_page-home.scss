@@ -99,7 +99,17 @@
 		}
 	}
 
-	@media screen and (max-width: 500px) {
+	@media screen and (max-width: $small-device) {
+		#featured {
+			.content {
+				padding: 1rem;
+			}
+
+			h4 {
+				margin-bottom: 1.5rem;
+			}
+		}
+
 		.flex-wrapper {
 			flex-direction: column;
 		}
@@ -113,9 +123,16 @@
 			margin: 0;
 		}
 
-		.featued-photo {
+		.featured-photo {
+			padding-bottom: 3rem; 
+
 			h3 {
 				font-size: 2rem;
+			}
+
+			.img-row {
+				margin-left: -1rem;
+				margin-right: -1rem;
 			}
 		}
 

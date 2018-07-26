@@ -2,12 +2,19 @@
 // Import from TypeKit
 @import url("https://use.typekit.net/agm1ijz.css");
 
-$base-font-family: 'halyard-text', sans-serif;
-$copy-font-family: 'acumin-pro', sans-serif;
-$article-font-family: 'acumin-pro', sans-serif;
+$base-font-family: 'halyard-text', -apple-system, BlinkMacSystemFont, sans-serif;
+$copy-font-family: 'acumin-pro', -apple-system, BlinkMacSystemFont,  sans-serif;
+$article-font-family: 'acumin-pro', -apple-system, BlinkMacSystemFont,  sans-serif;
 $base-color: #1a1a1a;
 $font-color: #111;
 $border-color: #aaa;
+
+// Breakpoints 
+$xsmall-device: 320px;
+$small-device: 500px;
+$medium-device: 700px;
+$large-device: 1000px;
+$xlarge-device: 1400px;
 
 
 @import 
@@ -16,9 +23,9 @@ $border-color: #aaa;
  	'send/section-footer',
  	'send/page-home',
  	'send/page-post',
-  'send/page-directory';
+    'send/page-directory';
 
-@media screen and (min-width: 320px) {
+@media screen and (min-width: $xsmall-device) {
   	html {
     	font-size: calc(16px + 6 * ((100vw - 320px) / 680));
   	}
@@ -28,7 +35,7 @@ $border-color: #aaa;
  //  	}
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: $large-device) {
   	html {
     	font-size: 16px;
   	}

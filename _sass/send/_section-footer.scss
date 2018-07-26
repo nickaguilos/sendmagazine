@@ -8,4 +8,22 @@
 	padding-top: 1rem;
 	padding-bottom: 2rem;
 	margin-top: 3rem;
+
+	@media screen and (max-width: $small-device) {
+		& {
+			flex-direction: column;
+			padding: 1rem;
+		}
+
+		small {
+			order: 1;
+			opacity: 0.5;
+		}
+
+		a {
+			display: inline-block;
+			padding-right: 20px;
+			padding-bottom: 1rem;
+		}
+	}
 }
