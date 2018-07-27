@@ -3,14 +3,12 @@ layout: post
 title: "What's in your bag, Yoshi?"
 author: Michelle Co
 tag: other-articles
-image: /assets/images/issue-1/wiyb/hero-image.jpg
+lower-hero: /assets/images/issue-1/wiyb/hero-image.jpg
 excerpt: In this article, we talked to Japanese climber and frequent traveller Yoshimasa Shiraiwa about what he carries in his gym bag.
 
 ---
 
-<!-- ![profile]( {{ 'assets/images/issue-1/wiyb/profile.jpg' | absolute_url }}){:class="full-bleed"} -->
-
-<h2>
+<h2 class="pre-text">
 	In this first edition of <em>What's In Your Bag</em>, we talked to Japanese climber and frequent traveller <strong>Yoshimasa Shiraiwa</strong> about what he carries in his gym bag. 
 </h2>
 

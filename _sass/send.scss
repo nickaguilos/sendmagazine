@@ -1,13 +1,16 @@
 
 // Import from TypeKit
 @import url("https://use.typekit.net/agm1ijz.css");
+@import url("https://use.fontawesome.com/releases/v5.2.0/css/fontawesome.css");
+@import url("https://use.fontawesome.com/releases/v5.2.0/css/brands.css");
+@import url("https://use.fontawesome.com/releases/v5.2.0/css/solid.css");
 
 $base-font-family: 'halyard-text', -apple-system, BlinkMacSystemFont, sans-serif;
 $copy-font-family: 'acumin-pro', -apple-system, BlinkMacSystemFont,  sans-serif;
 $article-font-family: 'acumin-pro', -apple-system, BlinkMacSystemFont,  sans-serif;
 $base-color: #1a1a1a;
 $font-color: #111;
-$border-color: #aaa;
+$border-color: #ddd;
 
 // Breakpoints 
 $xsmall-device: 320px;
@@ -29,19 +32,11 @@ $xlarge-device: 1400px;
   	html {
     	font-size: calc(16px + 6 * ((100vw - 320px) / 680));
   	}
-
-	// body {
- //  		padding: 1rem;
- //  	}
 }
 
 @media screen and (min-width: $large-device) {
   	html {
     	font-size: 16px;
   	}
-
-  	// body {
-  	// 	padding: 3rem;
-  	// }
 }
 

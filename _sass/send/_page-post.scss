@@ -13,11 +13,17 @@
 		margin: 0;
 	}
 
-	.post-content {
-		max-width: 1000px;
+	// For Captions
+	img + em {
+		font-size: 0.8em;
+		opacity: 0.5;
+	}
+
+	.post-content, #related-post {
+		max-width: 700px;
 		margin: 0 auto;
 
-		h2 {
+		.pre-text {
 			font-size: 2rem;
 			margin-bottom: 5rem;
 			font-weight: 400;
@@ -40,6 +46,47 @@
 
 			img {
 				margin: 1rem;
+			}
+		}
+	}
+
+	#related-post {
+		padding: 3em 0;
+		margin-top: 5em;
+		border-top: 1px solid $border-color;
+
+		@keyframes move-arrow {
+			from {
+				left: 0;
+			}
+
+			to {
+				left: 5px;
+			}
+		}
+
+		.fas {
+			display: block;
+			position: relative;
+		}
+
+		a {
+			display: flex;
+			align-items: center;
+
+			&:hover {
+				color: $base-color !important;
+
+				h5 {
+					opacity: 0.5;
+				}
+
+				.fas {
+					animation-name: move-arrow;
+					animation-duration: 0.5s;
+					animation-iteration-count: 1;
+					opacity: 0.5;
+				}
 			}
 		}
 	}

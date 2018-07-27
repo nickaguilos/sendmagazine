@@ -3,6 +3,10 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
+    {% if page.higher-hero %}
+    <img src="{{ page.higher-hero }}" alt="higher-hero-image">
+    {% endif %}
+
     <header class="post-header">
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
         <p class="post-meta">
@@ -15,11 +19,29 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
         {%- endif -%}</p>
     </header>
-
-    <img src="{{ page.image }}" alt="post hero-image">
+    
+    {% if page.lower-hero %}
+    <img src="{{ page.lower-hero }}" alt="lower-hero-image">
+    {% endif %}
 
     <div class="post-content e-content" itemprop="articleBody">
         {{ content }}
+
+        {% if page.next.url %}
+        <div id="related-post">
+            <h2 class="section-heading">You May Like</h2>
+            <a href="{{ page.next.url }}">
+                <div>
+                    <h5>{{ page.next.title }}</h5>
+                    <p>
+                        {{ page.next.excerpt }}
+                    </p>
+                </div>
+
+                <i class="fas fa-arrow-right"></i>
+            </a>
+        </div>
+        {% endif %}
     </div>
 
     {%- if site.disqus.shortname -%}
