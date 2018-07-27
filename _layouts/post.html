@@ -27,6 +27,8 @@ layout: default
     <div class="post-content e-content" itemprop="articleBody">
         {{ content }}
 
+        {% include share.html %}
+
         {% if page.next.url %}
         <div id="related-post">
             <h2 class="section-heading">You May Like</h2>

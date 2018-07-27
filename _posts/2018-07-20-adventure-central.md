@@ -20,6 +20,15 @@ Currently, Adventure Central is marketed as an outdoor sports center(?), targeti
 
 I ask them what the most challenging part of running a facility such as Adventure Central is. They answer that dealing with paperwork, being able to retain their climbing gym members, and due to logistics, outdoor climbing are among the most difficult tasks
 
+<!-- Image Row -->
+
+<div class="image-row 2" markdown="1">
+![{{ page.title }}]({{ '/assets/images/issue-1/ac/4-2.jpg' | absolute_url }}){:class="image-row two"}
+
+![{{ page.title }}]({{ '/assets/images/issue-1/ac/4-3.jpg' | absolute_url }}){:class="image-row two"}
+</div>
+<em>Jops Corpus and Lian Obias from Manila competing in Verticality 2</em>
+
 
 
 To keep the number of gym climbers from dwindling, Adventure Central holds climbing activities all throughout the year. They offer a Kids Climbing Competition during summer, an Anniversary Competition in July, and Verticality during the Christmas season. To them, every competition is a gathering, and each time they hold one, they learn more insights on how to run the next one and to keep their business going.
@@ -27,5 +36,7 @@ To keep the number of gym climbers from dwindling, Adventure Central holds climb
 Climbing was the first sport with which Adventure Central's platform was built on, they say. Though during the past few months, the owners started focusing more and more into the other activities such as mountain biking and mountaineering and they've been a little hands off the sport, climbing continued to increase the number of climberg, they say.. Due to this, they’ve been pushing the sport to a wide audience in Iloilo.
 
 The next stop for Adventure Central, they say, is to produce national-caliber climbers. Since most of their climbers are in the age range of 10-20 years old, they aim to train these young aspiring athletes. They hope that by starting training of these climbers at a young age, they can develop them to be top climbers soon enough.
+
+![{{ page.title }}]({{ '/assets/images/issue-1/ac/2.jpg' | absolute_url }})
 
 Climbing and business is intertwined in the minds of the people running Adventure Central. It is work that needs constant refining in order to keep the business running. According to Sha, it is a give and take relationship with the community that has been built by and supported by this facility. But, she says, Adventure Central is not solely a business; it is also a family, as most other climbing gyms are.

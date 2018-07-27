@@ -70,3 +70,16 @@ a {
 	font-family: 'acumin-pro-condensed', sans-serif;
 	text-transform: uppercase;
 }
+
+.sharer {
+	display: flex;
+	align-items: center;
+	border: 1px solid $border-color;
+	padding: 1em;
+
+	a {
+		display: inline-block;
+		font-size: 2rem;
+		margin: 0 10px;
+	}
+}
