@@ -16,6 +16,8 @@
 	// For Captions
 	img + em, .image-row + em {
 		font-size: 0.8em;
+		display: block;
+		margin-bottom: 1em;
 		opacity: 0.5;
 	}
 
@@ -48,8 +50,8 @@
 			display: flex;
 			justify-content: center;
 
-			p {
-				margin: 1rem;
+			p:first-of-type {
+				margin-right: 1rem;
 			}
 
 			&.medium {
@@ -109,7 +111,7 @@
 
 	@media screen and (max-width: $small-device) {
 		.post-title {
-			font-size: 4em;
+			font-size: 3em;
 		}
 
 		.post-header {
@@ -127,7 +129,6 @@
 
 			.pre-text {
 				font-size: 1.5rem;
-				text-align: left;
 				margin: 0;
 			}
 
