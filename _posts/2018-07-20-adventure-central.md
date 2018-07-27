@@ -23,9 +23,9 @@ I ask them what the most challenging part of running a facility such as Adventur
 <!-- Image Row -->
 
 <div class="image-row 2" markdown="1">
-![{{ page.title }}]({{ '/assets/images/issue-1/ac/4-2.jpg' | absolute_url }}){:class="image-row two"}
+![{{ page.title }}]({{ '/assets/images/issue-1/ac/4-2.jpg' | absolute_url }})
 
-![{{ page.title }}]({{ '/assets/images/issue-1/ac/4-3.jpg' | absolute_url }}){:class="image-row two"}
+![{{ page.title }}]({{ '/assets/images/issue-1/ac/4-3.jpg' | absolute_url }})
 </div>
 <em>Jops Corpus and Lian Obias from Manila competing in Verticality 2</em>
 
