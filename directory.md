@@ -6,6 +6,25 @@ layout: default
 	<h1 class="section-heading">GYM DIRECTORIES</h1>
 
 	<article>
+		<h2>Power Up ROC <span>Bacolod City</span></h2>
+		<span>
+			11 street corner Tindalo Street, Bacolod City<br>
+			+63 927 552 5025 <br>
+			1PM - 10PM Monday to Sunday
+		</span>
+
+		<div class="rates">
+			<span>
+				<strong>Day Rate:</strong> P210 (inclusive of gear)
+			</span>
+
+			<span>
+				<strong>Monthly Pass:</strong> P1300
+			</span>
+		</div>
+	</article>
+
+	<article>
 		<h2>Guru Rock Climbing Gym <span>Cagayan De Oro City</span></h2>
 		<span>
 			Guru Rock Climbing Gym, Mandumol, Macasandig, Cagayan De Oro City <br>
@@ -38,25 +57,6 @@ layout: default
 
 			<span>
 				<strong>Monthly Pass:</strong> P800
-			</span>
-		</div>
-	</article>
-
-	<article>
-		<h2>Power Up ROC <span>Bacolod City</span></h2>
-		<span>
-			11 street corner Tindalo Street, Bacolod City<br>
-			+63 927 552 5025 <br>
-			1PM - 10PM Monday to Sunday
-		</span>
-
-		<div class="rates">
-			<span>
-				<strong>Day Rate:</strong> P210 (inclusive of gear)
-			</span>
-
-			<span>
-				<strong>Monthly Pass:</strong> P1300
 			</span>
 		</div>
 	</article>
@@ -99,4 +99,60 @@ layout: default
 		</div>
 		<small>Note: Adventure Central has an extensive list of rates depending on the timeframe</small>
 	</article>
+
+	<article>
+		<h2>Power Up Tandang Sora <span>Quezon City</span></h2>
+		<span>
+			690 Tandang Sora Avenue, Old Balara, Quezon City<br>
+			1PM - 10PM Monday to Sunday
+		</span>
+
+		<div class="rates">
+			<span>
+				<strong>Day Rate:</strong> P210
+			</span>
+
+			<span>
+				<strong>Monthly Pass:</strong> P2000
+			</span>
+		</div>
+	</article>
+
+	<article>
+		<h2>Power Up Centro Atletico <span>Quezon City</span></h2>
+		<span>
+			25 West Road cor. North Road, Cubao Quezon City<br>
+			1PM - 10PM Monday to Sunday
+		</span>
+
+		<div class="rates">
+			<span>
+				<strong>Day Rate:</strong> P210
+			</span>
+
+			<span>
+				<strong>Monthly Pass:</strong> P2000
+			</span>
+		</div>
+	</article>
+
+	<article>
+		<h2>Power Up Centro ROX <span>Taguig</span></h2>
+		<span>
+			Recreational Outdoor Exchange, Bonifacio High Street<br>
+			2PM - 10PM Monday to Sunday
+		</span>
+
+		<div class="rates">
+			<span>
+				<strong>Day Rate:</strong> P210
+			</span>
+		</div>
+	</article>
+
+	<div class="link-to-contact">
+		<p>
+			We want to provide a very comprehensive list of indoor climbing facilities all over the country. If you have a gym you want us to list here, please send us an email via the <strong><a href="contact.html">Contact Page</a></strong>.
+		</p>
+	</div>
 </div>

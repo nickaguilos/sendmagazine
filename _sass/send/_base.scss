@@ -53,6 +53,10 @@ h1 {
 p {
 	font-family: $copy-font-family;
 	line-height: 1.5em;
+
+	a {
+		border-bottom: 1px dotted $border-color;
+	}
 }
 
 a {
