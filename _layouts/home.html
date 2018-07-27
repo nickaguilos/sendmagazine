@@ -74,8 +74,10 @@ layout: default
         </div>
 
         <div class="img-row">
-            <img src="assets/images/homepage/featured-photo-1.jpg" alt="">
-            <img src="assets/images/homepage/featured-photo-2.jpg" alt="">
+            <a href=" {{ post.url | relative_url }}">
+                <img src="assets/images/homepage/featured-photo-1.jpg" alt="">
+                <img src="assets/images/homepage/featured-photo-2.jpg" alt="">
+            </a>
         </div>
     </section>
     {% endfor %}

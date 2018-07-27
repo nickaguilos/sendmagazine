@@ -4,7 +4,7 @@ title: "National Bouldering Competitions 2018"
 author: Michelle Co
 tag: photo-feature
 excerpt: Tensions ran high as local and international climbers vied for a spot in the podium during the R.O.X. Zero Gravity International Bouldering Competition 2018. 
-lower-hero: /assets/images/issue-1/nationals/1.jpg
+higher-hero: /assets/images/issue-1/nationals/1.jpg
 ---
 
 Tensions ran high as local and international climbers vied for a spot in the podium during the R.O.X. Zero Gravity International Bouldering Competition 2018. 

@@ -71,6 +71,42 @@ a {
 	text-transform: uppercase;
 }
 
+// Forms 
+
+form {
+	label {
+		display: block;
+		font-weight: bold;
+		margin-bottom: 0.5em;
+	}
+
+	fieldset {
+		border: none;
+		padding: 0;
+		margin-bottom: 2rem;
+	}
+
+	input, textarea {
+		font-size: 1.5rem;
+		padding: 10px;
+		border: 1px solid $border-color;
+		resize: none;
+		max-width: 90%;
+	}
+
+	button {
+		background: $base-color;
+		color: #fff;
+		border: none;
+		font-weight: bold;
+		font-size: 1rem;
+		padding: 1rem 3rem;
+	}
+}
+
+
+
+// Extras
 .sharer {
 	display: flex;
 	align-items: center;
