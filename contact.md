@@ -3,11 +3,11 @@ layout: page
 title: Contact Send
 ---
 
-<form action="https://formspree.io/hey@sendmagazine.com"
+<form action="https://formspree.io/hey@sendmagazine.ph"
       method="POST">
       <h3 class="section-heading">Mail us, maybe?</h3>
       <p>
-      	Do you have questions or stories you want us to publish? Send us an email so we can take a look
+      	Do you have questions for us or or do you have stories you want us to cover? Send us an email so we can take a look
       </p>
     <fieldset>
     	<label for="name">Your Name</label>
