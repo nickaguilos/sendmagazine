@@ -8,9 +8,9 @@ layout: default
     <div id="featured">
         {% for post in site.tags.featured %}
         <div class="flex-wrapper">
-            <div class="image">
+            <div class="image" {% if post.image %} style="background-image: url('{{ post.image }}')" {% endif %}>
                 <a href="{{ post.url }}">
-                    <img src="{{ site.baseurl }}/assets/images/homepage/featured-bukidnon.jpg" alt="">
+                    <!-- <img src="{{ site.baseurl }}/assets/images/homepage/featured-bukidnon.jpg" alt=""> -->
                 </a>
             </div>
             <div class="content">

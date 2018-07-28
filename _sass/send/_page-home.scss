@@ -35,12 +35,22 @@
 
 		.image {
 			flex-basis: 50%;
-			line-height: 0;		
+			line-height: 0;	
+			background-size: cover;	
+			min-height: 500px;
+			width: 100%;
+
+			a {
+				display: block;
+				width: 100%;
+				min-height: 500px
+			}
 		}
 
 		.content {
 			padding: 2rem;
 			flex-basis: 50%;
+			background-color: $base-color;
 		}
 	}
 
@@ -105,6 +115,7 @@
 		}
 	}
 
+	// Smartphone sizing
 	@media screen and (max-width: $small-device) {
 		#featured {
 			.content {
@@ -145,6 +156,24 @@
 		.article {
 			margin: 0 !important;
 			padding-bottom: 3rem;	
+		}
+	}
+
+	// Tablet Sizing
+	@media screen and (max-width: $large-device - 1) {
+		#featured {
+			.flex-wrapper {
+				flex-direction: column;
+			}
+
+			h4 {
+				margin-bottom: 1em;
+			}
+		}
+
+		.post-list, .featured-photo {
+			grid-column: 1/13;
+			padding: 2em;
 		}
 	}
 }

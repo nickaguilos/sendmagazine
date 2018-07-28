@@ -1,6 +1,7 @@
 ---
 layout: page
 title: We Are Send
+image: /assets/images/og-image.jpg
 ---
 
 <div id="about">
