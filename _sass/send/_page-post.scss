@@ -5,6 +5,16 @@
 	.post-header {
 		text-align: center;
 		padding: 3rem 0;
+
+		&.with-background {
+			min-height: 300px;
+			background-size: cover;
+			background-position: center;
+			color: #fff;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+		}
 	}
 
 	.post-title {

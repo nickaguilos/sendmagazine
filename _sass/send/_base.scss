@@ -67,6 +67,10 @@ a {
 	&:hover {
 		color: $hover-color !important;
 	}
+
+	&.highlighted {
+		color: $hover-color;
+	}
 }
 
 .section-heading {
@@ -77,34 +81,37 @@ a {
 
 // Forms 
 
-form {
-	label {
-		display: block;
-		font-weight: bold;
-		margin-bottom: 0.5em;
-	}
+label {
+	display: block;
+	font-weight: bold;
+	margin-bottom: 0.5em;
+}
 
-	fieldset {
-		border: none;
-		padding: 0;
-		margin-bottom: 2rem;
-	}
+fieldset {
+	border: none;
+	padding: 0;
+	margin-bottom: 2rem;
+}
 
-	input, textarea {
-		font-size: 1.5rem;
-		padding: 10px;
-		border: 1px solid $border-color;
-		resize: none;
-		width: 90%;
-	}
+input, textarea {
+	font-size: 1.5rem;
+	padding: 10px;
+	border: 1px solid $border-color;
+	resize: none;
+	width: 90%;
+}
 
-	button {
-		background: $base-color;
-		color: #fff;
-		border: none;
-		font-weight: bold;
-		font-size: 1rem;
-		padding: 1rem 3rem;
+button, .button {
+	background: $base-color;
+	color: #fff;
+	border: none;
+	font-weight: bold;
+	font-size: 1rem;
+	padding: 1rem 3rem 1.2rem 3rem;
+
+	&:hover {
+		background-color: $hover-color;
+		color: #fff !important;
 	}
 }
 
@@ -120,5 +127,18 @@ form {
 		display: inline-block;
 		font-size: 2rem;
 		margin: 0 10px;
+	}
+}
+
+.more-loader {
+	text-align: center;
+	padding: 5em 0;
+
+	@media screen and (max-width: $small-device) {
+		padding: 0;
+		a {
+			display: block;
+			margin: 1em;
+		}
 	}
 }

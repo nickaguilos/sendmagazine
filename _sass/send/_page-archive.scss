@@ -1,0 +1,21 @@
+.archive {
+	display: grid;
+	grid-template-columns: repeat(12, 1fr);
+	padding: 1em;
+	
+	& > * {
+		grid-column: 3/10;
+	}
+
+	h3 {
+		@extend h4;
+		margin: 2rem 0 0 0;
+	}
+
+	@media screen and (max-width: $small-device) {
+		& > * {
+			grid-column: 1/12;
+		}
+	}
+
+}

@@ -7,7 +7,11 @@ layout: default
     <img src="{{ page.higher-hero }}" alt="higher-hero-image">
     {% endif %}
 
-    <header class="post-header">
+    <header  
+        {% if page.background-hero %} class="post-header with-background"style="background-image: url('{{ page.background-hero }}')" 
+        {% else %}
+            class="post-header"
+        {% endif %}>
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
         <p class="post-meta">
         <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
