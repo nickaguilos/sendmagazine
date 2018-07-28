@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact Send
+image: /assets/images/og-image.jpg
 ---
 
 <form action="https://formspree.io/hey@sendmagazine.ph"

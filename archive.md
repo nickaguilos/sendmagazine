@@ -1,5 +1,6 @@
 ---
 layout: default
+image: /assets/images/og-image.jpg
 ---
 
 <div class="archive fixed-width-container">
