@@ -160,7 +160,7 @@
 	}
 
 	// Tablet Sizing
-	@media screen and (max-width: $large-device - 1) {
+	@media screen and (min-width: $small-device + 1) and (max-width: $large-device - 1) {
 		#featured {
 			.flex-wrapper {
 				flex-direction: column;
