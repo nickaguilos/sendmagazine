@@ -39,8 +39,8 @@ But finally, after a fierce competition between the climbers, the winners were f
 *Singapore-based Filipino climber Gerald Verosil tops out on the slopey first route of the Open Men’s competition.*
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/9.jpg' | absolute_url }})
 *Open Men’s competitor Iman Mora shakes off before attempting a new problem.*
-![{{ page.title }}]({{ '/assets/images/issue-1/nationals/13.jpg' | absolute_url }})
-*Liana More, reaching for the next hold from the dihederal*
+![{{ page.title }}]({{ '/assets/images/issue-1/nationals/liana.jpg' | absolute_url }})
+*Liana Mora, reaching for the next hold from the dihederal*
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/10.jpg' | absolute_url }})
 *Washington Jusay attempts to work a challenging problem of the Open Men’s final round.*
 
