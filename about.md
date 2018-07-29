@@ -15,6 +15,14 @@ permalink: about
 
 		<div class="faces">
 			<article>
+				<img src="/assets/images/about/noel-1.jpg" alt="">
+				<div class="content">
+					<strong>Noel Queja</strong> <br>
+					<em>Contributor</em>
+				</div>
+			</article>
+
+			<article>
 				<img src="/assets/images/about/michelle-1.jpg" alt="">
 				<div class="content">
 					<strong>Michelle Co</strong> <br>
