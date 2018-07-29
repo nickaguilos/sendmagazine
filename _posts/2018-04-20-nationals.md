@@ -33,7 +33,7 @@ But finally, after a fierce competition between the climbers, the winners were f
 
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/4-2.jpg' | absolute_url }})
 </div>
-*Open Women’s champion Widia Fujiyanti swings on the wall as she grabs the hold (left). Filipino climber Milky Mae Tejares figures out how to get to the zone of the final problem of the Open Women’s competition (right)*
+*Open Women’s champion Widia Fujiyanti swings on the wall as she grabs the hold (left). Milky Mae Tejares working a sloper at the start of the problem(right)*
 
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/8.jpg' | absolute_url }})
 *Singapore-based Filipino climber Gerald Verosil tops out on the slopey first route of the Open Men’s competition.*
@@ -42,13 +42,14 @@ But finally, after a fierce competition between the climbers, the winners were f
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/liana.jpg' | absolute_url }})
 *Liana Mora, reaching for the next hold from the dihederal*
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/10.jpg' | absolute_url }})
-*Washington Jusay attempts to work a challenging problem of the Open Men’s final round.*
+*Washington Jusay clings on to a volume in a challenging problem of the Open Men’s final round.*
 
 <div class="image-row 2" markdown="1">
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/6-1.jpg' | absolute_url }})
 
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/6-2.jpg' | absolute_url }})
 </div>
+*Chelle Suarez works  several slopers with a cross (left). Zoren Legaspi falls while attempting the first problem of the round (right)*
 
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/5.jpg' | relative_url }})
 *Filipino climber Milky Mae Tejares figures out how to get to the zone of the final problem of the Open Women’s competition.*{:class="cancel"}
