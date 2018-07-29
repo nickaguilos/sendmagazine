@@ -6,7 +6,7 @@ tag: other-articles
 excerpt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur consequuntur quasi vitae in nisi quibusdam recusandae eaque inventore, ea sunt, adipisci necessitatibus beatae voluptas. Impedit accusantium nisi iure nemo inventore.
 ---
 
-Want to try rock climbing but don’t know where to start? Worry not, this article ___ you!
+Want to try rock climbing but don’t know where to start? Worry not, this article has all you need to know in order to begin!
 
 Climbing is a unique sport that requires not only skills but problem-solving skills as well. It is also a full body workout that will guarantee you  (description of climbing that would entice reader to try it out?)
 

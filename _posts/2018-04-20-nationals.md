@@ -25,26 +25,40 @@ But finally, after a fierce competition between the climbers, the winners were f
 - Seto for Open Men’s
 
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/2.jpg' | relative_url }})
-*Competitor Milky Mae Tejares smiles at the crowd *
+*Competitor Milky Mae Tejares smiles at the crowd*
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/3.jpg' | relative_url }})
 *Indonesian climber Ndona Nasugian working her way up the second problem of the final round*
+
 <div class="image-row 2" markdown="1">
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/4-1.jpg' | absolute_url }})
 
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/4-2.jpg' | absolute_url }})
 </div>
+*Open Women’s champion Widia Fujiyanti swings on the wall as she grabs the hold (left). Filipino climber Milky Mae Tejares figures out how to get to the zone of the final problem of the Open Women’s competition (right)*
+
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/5.jpg' | relative_url }})
+*Filipino climber Milky Mae Tejares figures out how to get to the zone of the final problem of the Open Women’s competition.*
+
+![{{ page.title }}]({{ '/assets/images/issue-1/nationals/8.jpg' | absolute_url }})
+*Singapore-based Filipino climber Gerald Verosil tops out on the slopey first route of the Open Men’s competition.*
+
+![{{ page.title }}]({{ '/assets/images/issue-1/nationals/9.jpg' | absolute_url }})
+*Open Men’s competitor Iman Mora shakes off before attempting a new problem.*
+![{{ page.title }}]({{ '/assets/images/issue-1/nationals/10.jpg' | absolute_url }})
+*Washington Jusay attempts to work a challenging problem of the Open Men’s final round.*
+
+![{{ page.title }}]({{ '/assets/images/issue-1/nationals/13.jpg' | absolute_url }})
+
 <div class="image-row 2" markdown="1">
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/6-1.jpg' | absolute_url }})
 
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/6-2.jpg' | absolute_url }})
 </div>
+
 <div class="image-row 2" markdown="1">
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/7-1.jpg' | absolute_url }})
 
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/7-2.jpg' | absolute_url }})
 </div>
-![{{ page.title }}]({{ '/assets/images/issue-1/nationals/8.jpg' | absolute_url }})
-![{{ page.title }}]({{ '/assets/images/issue-1/nationals/9.jpg' | absolute_url }})
 
 *All Images Copyrighted By Send Magazine*

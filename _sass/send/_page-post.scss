@@ -24,11 +24,15 @@
 	}
 
 	// For Captions
-	img + em, .image-row + em {
+	img + em, .image-row + p > em {
 		font-size: 0.8em;
 		display: block;
-		margin-bottom: 1em;
+		margin-bottom: 2em;
 		opacity: 0.5;
+	}
+
+	.image-row + p > em {
+		margin: -3em 0 2em 0;
 	}
 
 	.post-content, #related-post {
@@ -90,8 +94,8 @@
 			position: relative;
 		}
 
-		h2 {
-			margin: 0;
+		h4 {
+			margin: 0 0 1em 0;
 		}
 
 		a {
@@ -101,7 +105,7 @@
 			&:hover {
 				color: $base-color !important;
 
-				h5 {
+				h4 {
 					opacity: 0.5;
 				}
 
