@@ -35,18 +35,14 @@ But finally, after a fierce competition between the climbers, the winners were f
 </div>
 *Open Women’s champion Widia Fujiyanti swings on the wall as she grabs the hold (left). Filipino climber Milky Mae Tejares figures out how to get to the zone of the final problem of the Open Women’s competition (right)*
 
-![{{ page.title }}]({{ '/assets/images/issue-1/nationals/5.jpg' | relative_url }})
-*Filipino climber Milky Mae Tejares figures out how to get to the zone of the final problem of the Open Women’s competition.*
-
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/8.jpg' | absolute_url }})
 *Singapore-based Filipino climber Gerald Verosil tops out on the slopey first route of the Open Men’s competition.*
-
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/9.jpg' | absolute_url }})
 *Open Men’s competitor Iman Mora shakes off before attempting a new problem.*
+![{{ page.title }}]({{ '/assets/images/issue-1/nationals/13.jpg' | absolute_url }})
+*Liana More, reaching for the next hold from the dihederal*
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/10.jpg' | absolute_url }})
 *Washington Jusay attempts to work a challenging problem of the Open Men’s final round.*
-
-![{{ page.title }}]({{ '/assets/images/issue-1/nationals/13.jpg' | absolute_url }})
 
 <div class="image-row 2" markdown="1">
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/6-1.jpg' | absolute_url }})
@@ -54,12 +50,10 @@ But finally, after a fierce competition between the climbers, the winners were f
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/6-2.jpg' | absolute_url }})
 </div>
 
-<div class="image-row 2" markdown="1">
-![{{ page.title }}]({{ '/assets/images/issue-1/nationals/7-1.jpg' | absolute_url }})
-
-![{{ page.title }}]({{ '/assets/images/issue-1/nationals/7-2.jpg' | absolute_url }})
-</div>
+![{{ page.title }}]({{ '/assets/images/issue-1/nationals/5.jpg' | relative_url }})
+*Filipino climber Milky Mae Tejares figures out how to get to the zone of the final problem of the Open Women’s competition.*{:class="cancel"}
 
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/12.jpg' | absolute_url }})
+*Indonesian climber and Open Men’s champion Seto victoriously tops out on the final problem of the competition after a challenging way up, cementing his place on the top of the podium.*{:class="cancel"}
 
 *All Images Copyrighted By Send Magazine*

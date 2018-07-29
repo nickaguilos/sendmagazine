@@ -33,6 +33,10 @@
 		display: block;
 		margin-bottom: 2em;
 		opacity: 0.5;
+
+		&.cancel {
+			margin: 0 0 2em 0;
+		}
 	}
 
 	.image-row + p > em {
