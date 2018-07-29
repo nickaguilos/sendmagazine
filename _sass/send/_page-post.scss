@@ -94,8 +94,8 @@
 			position: relative;
 		}
 
-		h4 {
-			margin: 0 0 1em 0;
+		h3 {
+			margin: 0 0 -10px 0;
 		}
 
 		a {
@@ -105,7 +105,7 @@
 			&:hover {
 				color: $base-color !important;
 
-				h4 {
+				h3 {
 					opacity: 0.5;
 				}
 
