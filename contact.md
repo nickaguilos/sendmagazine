@@ -5,7 +5,7 @@ image: /assets/images/og-image.jpg
 permalink: /contact
 ---
 
-<form action="https://formspree.io/hey@sendmagazine.ph"
+<form action="https://formspree.io/sendpublication@gmail.com"
       method="POST">
       <h3 class="section-heading">Mail us, maybe?</h3>
       <p>
