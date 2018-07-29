@@ -60,4 +60,6 @@ But finally, after a fierce competition between the climbers, the winners were f
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/7-2.jpg' | absolute_url }})
 </div>
 
+![{{ page.title }}]({{ '/assets/images/issue-1/nationals/12.jpg' | absolute_url }})
+
 *All Images Copyrighted By Send Magazine*
