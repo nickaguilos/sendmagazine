@@ -37,13 +37,12 @@
 			flex-basis: 50%;
 			line-height: 0;	
 			background-size: cover;	
-			min-height: 500px;
 			width: 100%;
 
 			a {
 				display: block;
 				width: 100%;
-				min-height: 500px
+				min-height: 300px
 			}
 		}
 
@@ -122,6 +121,10 @@
 				padding: 1rem;
 			}
 
+			.image a {
+				height: 300px;
+			}
+
 			h4 {
 				margin-bottom: 1.5rem;
 			}
@@ -164,6 +167,10 @@
 		#featured {
 			.flex-wrapper {
 				flex-direction: column;
+			}
+
+			.image a {
+				height: 300px;
 			}
 
 			h4 {

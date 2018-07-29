@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Climbing Starter Kit"
-author: Michelle Co
+author: Cindy McSender
 tag: other-articles
 excerpt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur consequuntur quasi vitae in nisi quibusdam recusandae eaque inventore, ea sunt, adipisci necessitatibus beatae voluptas. Impedit accusantium nisi iure nemo inventore.
 ---
