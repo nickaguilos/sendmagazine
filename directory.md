@@ -134,7 +134,7 @@ image: /assets/images/og-image.jpg
 
 		<div class="rates">
 			<span>
-				<strong>Day Rate:</strong> P210
+				<strong>Day Rate:</strong> P200
 			</span>
 
 			<span>
@@ -174,7 +174,11 @@ image: /assets/images/og-image.jpg
 
 		<div class="rates">
 			<span>
-				<strong>Day Rate:</strong> P210
+				<strong>Day Rate:</strong> P250
+			</span>
+
+			<span>
+				<strong>Monthly Pass:</strong> P2500
 			</span>
 		</div>
 	</article>

@@ -3,7 +3,7 @@ layout: post
 title: "Climbing Starter Kit"
 author: Cindy McSender
 tag: other-articles
-excerpt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur consequuntur quasi vitae in nisi quibusdam recusandae eaque inventore, ea sunt, adipisci necessitatibus beatae voluptas. Impedit accusantium nisi iure nemo inventore.
+excerpt: Want to try rock climbing but don’t know where to start? Worry not, this article has all you need to know in order to begin!
 ---
 
 Want to try rock climbing but don’t know where to start? Worry not, this article has all you need to know in order to begin!
