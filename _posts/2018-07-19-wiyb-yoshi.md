@@ -197,7 +197,7 @@ We caught him during one of his visits to Power Up Centro Atletico, and went thr
 <strong>Send:</strong> Have your previous Skwamas broken already? <br>
 <strong>Yoshi:</strong> No, they’re on rotation. If they’re wearing out, I bring the shoes to the resole company. I only have one Skwama that is not yet worn out. <br>
 <strong>Send:</strong> When you buy gear for mountaineering or sport climbing, what do you look for? <br>
-<strong>Yoshi:</strong> Recently, [I’ve been looking at] function for climbing gear. For example, for quickdraw I bought it for ice climbing and free climbing because it is easy to unclip and [it is] very light. So I chose this but now I shifted to more sport climbing so I have more options. So I think I will buy another one now because i choose climbing gear by the function.
+<strong>Yoshi:</strong> Recently, [I’ve been looking at] function for climbing gear. For example, for quickdraw I bought it for ice climbing and free climbing because it is easy to unclip and [it is] very light. So I chose this but now I shifted to more sport climbing so I have more options. So I think I will buy another one now because I choose climbing gear by the function.
 
 <em>This article has been edited and condensed</em>
 
