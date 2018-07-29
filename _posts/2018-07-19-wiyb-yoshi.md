@@ -14,24 +14,24 @@ excerpt: In this article, we talked to Japanese climber and frequent traveller Y
 
 We caught him during one of his visits to Power Up Centro Atletico, and went through the items that he regularly brings to the climbing gym. Since he’s never in one place for too long, we thought that he might have some interesting items with him that he might be able to share with us. 
 
-<h5>
+<h3>
 	BCAA+ G 6000 Muscle Size, Strength and Recovery
-</h5>
+</h3>
 ![BCAA+ G 6000 Muscle Size, Strength and Recovery]({{ 'assets/images/issue-1/wiyb/1.jpg' | absolute_url }})
 
 <strong>Yoshi:</strong> It’s a kind of amino acid that’s good for climbing. It [also] helps with recovery.
 
-<h5>
+<h3>
 	Gran’s Remedy 
-</h5>
+</h3>
 ![BCAA+ G 6000 Muscle Size, Strength and Recovery]({{ 'assets/images/issue-1/wiyb/2.jpg' | absolute_url }})
 <strong>Yoshi:</strong> I wear shoes without socks, so in Japan, it’s very popular to prevent smelling. <br>
 <strong>Send:</strong> Is it like a powder? <br>
 <strong>Yoshi:</strong> Yes, we put it in shoes.
 
-<h5>
+<h3>
 	Umbrella, Mask
-</h5>
+</h3>
 ![umbrella-mask]({{ 'assets/images/issue-1/wiyb/3.jpg' | absolute_url }})
 
 <em>
@@ -55,9 +55,9 @@ We caught him during one of his visits to Power Up Centro Atletico, and went thr
 <strong>Send:</strong> Here in Manila, have you seen anything new while walking? Anything interesting? <br>
 <strong>Yoshi:</strong> The scenery in general is very interesting. It’s much different from Japan, especially Malacanang or Sta. Mesa or something. Ermita is also very different. <br>
 
-<h5>
+<h3>
 	Phone case (PX360 Made For Life)
-</h5>
+</h3>
 ![phonecase]({{ 'assets/images/issue-1/wiyb/4.jpg' | absolute_url }})
 
 <strong>Yoshi:</strong> This is for mountaineering, you can clip it to your harness. But this is already discontinued. <br>
@@ -72,9 +72,9 @@ We caught him during one of his visits to Power Up Centro Atletico, and went thr
 <strong>Send:</strong> Happy story! <br>
 <strong>Yoshi:</strong> Yes, happy story. 
 
-<h5>
+<h3>
 	Oakley Shades
-</h5>
+</h3>
 
 ![shades]({{ 'assets/images/issue-1/wiyb/5.jpg' | absolute_url }})
 
@@ -85,26 +85,26 @@ We caught him during one of his visits to Power Up Centro Atletico, and went thr
 <strong>Send:</strong> So it’s not too dark even if it’s night and you’re wearing shades? <br>
 <strong>Yoshi:</strong> No, well, actually, I have gotten accustomed to sunglasses, but it’s not so dark anyway. Under the sun, you can see my eyes, so actually it’s not so dark. <br>
 
-<h5>
+<h3>
 	5.10 samurai t-shirt from Japan
-</h5>
+</h3>
 ![tshirt]({{ 'assets/images/issue-1/wiyb/6.jpg' | absolute_url }})
 
 <strong>Send:</strong> Do you like that shirt? <br>
 <strong>Yoshi:</strong> I like this design, and it’s kind of old. [I bought it] maybe 10 years before and I have never seen another person wearing this recently, so it’s unique. <br>
 
-<h5>
+<h3>
 	Patagonia R2 Fleece Jacket
-</h5>
+</h3>
 ![fleece]({{ 'assets/images/issue-1/wiyb/7.jpg' | absolute_url }})
 
 <strong>Yoshi:</strong> I study in Starbucks, but Starbucks is too cold, so I bring this jacket. <br>
 <strong>Send:</strong> What do you study in Starbucks? <br>
 <strong>Yoshi:</strong> Tagalog.  <br>
 
-<h5>
+<h3>
 	Changing clothes pants
-</h5>
+</h3>
 
 <strong>Send:</strong> Where’s that from? <br>
 <strong>Yoshi:</strong> Blurr. Maybe it’s a climbing company, I don’t know. <br>
@@ -113,27 +113,27 @@ We caught him during one of his visits to Power Up Centro Atletico, and went thr
 <strong>Send:</strong> Oh, at least you can use your climbing clothes for everyday use. <br>
 
 
-<h5>
+<h3>
 	Simple Wallet &amp; Keys
-</h5>
+</h3>
 ![wallet-keys]({{ 'assets/images/issue-1/wiyb/8.jpg' | absolute_url }})
 
 <strong>Yoshi:</strong> I bought this in Manila, someone told me, if you have this kind of wallet, you are safe. <br>
 <strong>Send:</strong> Why will you be safe? <br>
 <strong>Yoshi:</strong> I don’t know. I bought it in a stall on the road. <br>
 
-<h5>
+<h3>
 	3 Toothbrushes
-</h5>
+</h3>
 
 <strong>Send:</strong> Why do you have three toothbrushes? <br>
 <strong>Yoshi:</strong> They’re for Kota Kinabalu <br>
 <strong>Send:</strong> Oh! You’re going to Kota Kinabalu? <br>
 <strong>Yoshi:</strong> Yup! Here it’s a city, but in Kota Kinabalu, it’s not a big city, so I might not be able to find toothbrushes. <br>
 
-<h5>
+<h3>
 	Patagonia Cragsmith 35L
-</h5>
+</h3>
 ![backpack]({{ 'assets/images/issue-1/wiyb/9.jpg' | absolute_url }})
 
 <strong>Send:</strong> When did you get this? <br>
@@ -144,9 +144,9 @@ We caught him during one of his visits to Power Up Centro Atletico, and went thr
 <strong>Yoshi:</strong> Yes, but when I go to Malaysia and Thailand, [I’m bringing] only this. I’m leaving my other bag here because it’s heavy.
 
 
-<h5>
+<h3>
 	Daiso bag
-</h5>
+</h3>
 ![daiso-bag]({{ 'assets/images/issue-1/wiyb/10.jpg' | absolute_url }})
 
 <strong>Yoshi:</strong> I bought this bag from Daiso in Japan. I like simple bags. But our housekeeper laughs at me because in this country, this type of bag is for shopping in the supermarket; men never have this bag, I don’t know. <br>
@@ -163,17 +163,17 @@ We caught him during one of his visits to Power Up Centro Atletico, and went thr
 <strong>Send:</strong> How long did you have that bag for? <br>
 <strong>Yoshi:</strong> Oh, it was easy to break, maybe two years? <br>
 
-<h5>
+<h3>
 	Lime Chalk Bag
-</h5>
+</h3>
 ![chalkbag]({{ 'assets/images/issue-1/wiyb/11.jpg' | absolute_url }})
 
 <strong>Send:</strong> When did you buy your chalk bag? <br>
 <strong>Yoshi:</strong> 2016, last last year during Lust for Lime. I really like it. It’s very rare in Japan because no one has Lime. So sometimes, I’m asked, “What is Lime?” <br>
 
-<h5>
+<h3>
 	ATC-XP &amp; Black Diamond Carabiner
-</h5>
+</h3>
 ![carabiner-tube]({{ 'assets/images/issue-1/wiyb/12.jpg' | absolute_url }})
 
 <strong>Yoshi:</strong> The pear shape prevents cross load. <br>
@@ -181,9 +181,9 @@ We caught him during one of his visits to Power Up Centro Atletico, and went thr
 <strong>Yoshi:</strong> Maybe five years. <br>
 
 
-<h5>
+<h3>
 	Black Diamond Momentum Double Speed
-</h5>
+</h3>
 ![carabiner-tube]({{ 'assets/images/issue-1/wiyb/13.jpg' | absolute_url }})
 <strong>Send:</strong> What about your harness, where’s it from? <br>
 <strong>Yoshi:</strong> It’s from BD (Black Diamond) <br>
@@ -192,9 +192,9 @@ We caught him during one of his visits to Power Up Centro Atletico, and went thr
 <strong>Send:</strong> How long have you been climbing? <br>
 <strong>Yoshi:</strong> Almost 10 years. Recently, I’ve been dedicated especially to indoor climbing. But before, I liked trad climbing. In trad climbing, sometimes you have to climb chimneys or offwidths so it’s easy to break the harness. But recently I’ve only been sport climbing, so it’s okay.  <br>
 
-<h5>
+<h3>
 	La Sportiva Skwama
-</h5>
+</h3>
 ![shoes]({{ 'assets/images/issue-1/wiyb/14.jpg' | absolute_url }})
 
 <strong>Yoshi:</strong> I like this one so much because it’s [a] very nice [pair of] shoes and it fits my foot shape. <br>
