@@ -8,11 +8,11 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur c
 
 Want to try rock climbing but don’t know where to start? Worry not, this article has all you need to know in order to begin!
 
-Climbing is a unique sport that requires not only skills but problem-solving skills as well. It is also a full body workout that will guarantee you  (description of climbing that would entice reader to try it out?)
+Climbing is a unique sport that is not just physically challenging but mentally demanding as well. Since it requires problem-solving skills in order to properly scale the wall, it is definitely a full-body workout that will guarantee you hours well-spent getting stronger and releasing stress.
 
 ### Step 1: Choose a gym.
  
-Since the rise in popularity of the sport, there have been many gyms that have opened in different places around the city. Simply choose a gym that is convenient for you to visit, and know how to get there and what their operating hours are. Here (link) is a link to our climbing directory.
+Since the rise in popularity of the sport, there have been many gyms that have opened in different places around the city. Simply choose a gym that is convenient for you to visit, and know how to get there and what their operating hours are. [Here](/directory) is a link to our climbing directory.
 
 ### Step 2: Invite a friend to climb with you.
 
@@ -28,7 +28,7 @@ Don’t forget to wear comfortable clothes and to bring a water jug to hydrate y
 
 ### Step 4: Rent equipment.
 
-The main equipment needed for climbing include climbing harnesses and shoes; the former is required for top-rope climbing and can be rented in the gym, the latter is not required but would greatly help in climbing it clings onto even the smallest of holds.
+The main equipment needed for climbing include climbing harnesses and shoes; the former is required for top-rope climbing and can be rented in the gym, the latter is not required but would greatly help in climbing as it clings onto even the smallest of holds.
 
 ### Step 5: Have fun!
 

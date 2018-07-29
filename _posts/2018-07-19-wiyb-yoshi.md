@@ -50,8 +50,6 @@ We caught him during one of his visits to Power Up Centro Atletico, and went thr
 <strong>Yoshi:</strong> Maybe two hours <br>
 <strong>Send:</strong> You don’t get bored? <br>
 <strong>Yoshi:</strong> No, my hobby is walking. <br>
-<strong>Send:</strong> In Japan, is it normal to walk for two hours? <br>
-<strong>Yoshi:</strong>  Not so much, but sometimes the person who likes walking walks [as a hobby].  And when travelling abroad, you walk and [you see that] the scenery is new.  <br>
 <strong>Send:</strong> Here in Manila, have you seen anything new while walking? Anything interesting? <br>
 <strong>Yoshi:</strong> The scenery in general is very interesting. It’s much different from Japan, especially Malacanang or Sta. Mesa or something. Ermita is also very different. <br>
 
@@ -68,7 +66,7 @@ We caught him during one of his visits to Power Up Centro Atletico, and went thr
 <strong>Send:</strong> Why do you have two phones? <br>
 <strong>Yoshi:</strong> iPhone is very nice for photos, but it’s very expensive. Sometimes in dangerous areas, it’s not a good idea to use this one. So for example, in Manila, I use the cheaper phone.  <br>
 <strong>Send:</strong> Do you use your phone in climbing, for example, when you research where to go? <br>
-<strong>Yoshi:</strong> Yeah, the first time I came to Manila, I searched for climbing gyms in Manila. I’m lucky because i met Ate Jhe here (in Centro Atletico). But I went to all gyms in Manila--Market Market, Power Up R.O.X., Power Up Tandang Sora, and Climb Central Manila. But I like it here. I met Ate Jhe, and Ikay. I forgot to ask for a telephone number so I thought I couldn’t get in contact with them anymore. But I remembered the name of Erika (Ikay) because Erika is also a Japanese name. And I searched Erika on Facebook and found her so I could get in contact with Ate Jhe. <br>
+<strong>Yoshi:</strong> Yeah, the first time I came to Manila, I searched for climbing gyms in Manila. I’m lucky because I met Ate Jhe here (in Centro Atletico) But I went to all gyms in Manila--Market Market, Power Up R.O.X., Power Up Tandang Sora, and Climb Central Manila. But I like it here. I forgot to ask for a telephone number so I thought I couldn’t get in contact with them anymore. But I remembered the name of Erika (Ikay) because Erika is also a Japanese name. And I searched Erika on Facebook and found her so I could get in contact with Ate Jhe. <br>
 <strong>Send:</strong> Happy story! <br>
 <strong>Yoshi:</strong> Yes, happy story. 
 
@@ -102,16 +100,6 @@ We caught him during one of his visits to Power Up Centro Atletico, and went thr
 <strong>Send:</strong> What do you study in Starbucks? <br>
 <strong>Yoshi:</strong> Tagalog.  <br>
 
-<h3>
-	Changing clothes pants
-</h3>
-
-<strong>Send:</strong> Where’s that from? <br>
-<strong>Yoshi:</strong> Blurr. Maybe it’s a climbing company, I don’t know. <br>
-<strong>Send:</strong> Do you use this for climbing? <br>
-<strong>Yoshi:</strong> Yeah, but now I’m on a trip, so I can’t bring many luggages. Most of my clothes are for climbing. <br>
-<strong>Send:</strong> Oh, at least you can use your climbing clothes for everyday use. <br>
-
 
 <h3>
 	Simple Wallet &amp; Keys
@@ -123,7 +111,7 @@ We caught him during one of his visits to Power Up Centro Atletico, and went thr
 <strong>Yoshi:</strong> I don’t know. I bought it in a stall on the road. <br>
 
 <h3>
-	3 Toothbrushes
+	Toothbrushes
 </h3>
 
 <strong>Send:</strong> Why do you have three toothbrushes? <br>
@@ -209,7 +197,7 @@ We caught him during one of his visits to Power Up Centro Atletico, and went thr
 <strong>Send:</strong> Have your previous Skwamas broken already? <br>
 <strong>Yoshi:</strong> No, they’re on rotation. If they’re wearing out, I bring the shoes to the resole company. I only have one Skwama that is not yet worn out. <br>
 <strong>Send:</strong> When you buy gear for mountaineering or sport climbing, what do you look for? <br>
-<strong>Yoshi:</strong> Recently, [i’ve been looking at] function for climbing gear. For example, for quickdraw I bought it for ice climbing and free climbing because it is easy to unclip and [it is] very light. So I chose this but now I shifted to more sport climbing so I have more options. So I think i will buy another one now because i choose climbing gear by the function.
+<strong>Yoshi:</strong> Recently, [I’ve been looking at] function for climbing gear. For example, for quickdraw I bought it for ice climbing and free climbing because it is easy to unclip and [it is] very light. So I chose this but now I shifted to more sport climbing so I have more options. So I think I will buy another one now because i choose climbing gear by the function.
 
 <em>This article has been edited and condensed</em>
 
