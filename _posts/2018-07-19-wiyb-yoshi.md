@@ -66,7 +66,7 @@ We caught him during one of his visits to Power Up Centro Atletico, and went thr
 <strong>Send:</strong> Why do you have two phones? <br>
 <strong>Yoshi:</strong> iPhone is very nice for photos, but it’s very expensive. Sometimes in dangerous areas, it’s not a good idea to use this one. So for example, in Manila, I use the cheaper phone.  <br>
 <strong>Send:</strong> Do you use your phone in climbing, for example, when you research where to go? <br>
-<strong>Yoshi:</strong> Yeah, the first time I came to Manila, I searched for climbing gyms in Manila. I’m lucky because I met Ate Jhe here (in Centro Atletico) But I went to all gyms in Manila--Market Market, Power Up R.O.X., Power Up Tandang Sora, and Climb Central Manila. But I like it here. I forgot to ask for a telephone number so I thought I couldn’t get in contact with them anymore. But I remembered the name of Erika (Ikay) because Erika is also a Japanese name. And I searched Erika on Facebook and found her so I could get in contact with Ate Jhe. <br>
+<strong>Yoshi:</strong> Yeah, the first time I came to Manila, I searched for climbing gyms in Manila. I’m lucky because I met Ate Jhe here (in Centro Atletico) But I went to all gyms in Manila--Market Market, Power Up R.O.X., Power Up Tandang Sora, and Climb Central Manila. But I like it here.  I met Ate Jhe and Ikay. I forgot to ask for a telephone number so I thought I couldn’t get in contact with them anymore. But I remembered the name of Erika (Ikay) because Erika is also a Japanese name. And I searched Erika on Facebook and found her so I could get in contact with Ate Jhe. <br>
 <strong>Send:</strong> Happy story! <br>
 <strong>Yoshi:</strong> Yes, happy story. 
 
