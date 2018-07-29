@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "National Bouldering Competitions 2018"
-permalink: issue-1/national-bouldering-2018
+permalink: issue-1/national-bouldering-2018notes
 author: Michelle Co
 tag: photo-feature
 excerpt: Tensions ran high as local and international climbers vied for a spot in the podium during the R.O.X. Zero Gravity International Bouldering Competition 2018. 
@@ -25,7 +25,7 @@ But finally, after a fierce competition between the climbers, the winners were f
 - Seto for Open Men’s
 
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/2.jpg' | relative_url }})
-*Milky Mae Tejares*
+*Competitor Milky Mae Tejares smiles at the crowd *
 ![{{ page.title }}]({{ '/assets/images/issue-1/nationals/3.jpg' | relative_url }})
 *Indonesian climber Ndona Nasugian working her way up the second problem of the final round*
 <div class="image-row 2" markdown="1">

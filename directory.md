@@ -102,10 +102,34 @@ image: /assets/images/og-image.jpg
 	</article>
 
 	<article>
+		<h2>Climb Central <span>Mandaluyong City</span></h2>
+		<span>
+			Unit 02, The Portal, Mayflower Street,, Greenfield District, BRGY Highway Hills, Mandaluyong City, Philippines, 1552 Metro Manila<br>
+			(02) 721 8307
+		</span>
+
+		<div class="rates">
+			<span>
+				<strong>Day Rate (Adults):</strong> P400
+			</span>
+
+			<span>
+				<strong>Day Rate (Youth):</strong> P300
+			</span>
+
+			<span>
+				<strong>Monthly Pass:</strong> P2800
+			</span>
+		</div>
+	</article>
+
+	<article>
 		<h2>Power Up Tandang Sora <span>Quezon City</span></h2>
 		<span>
 			690 Tandang Sora Avenue, Old Balara, Quezon City<br>
-			1PM - 10PM Monday to Sunday
+			2PM - 10PM Monday to Friday <br>
+			12NN - 8PM Weekends <br>
+			(02) 932 7273
 		</span>
 
 		<div class="rates">
@@ -123,12 +147,14 @@ image: /assets/images/og-image.jpg
 		<h2>Power Up Centro Atletico <span>Quezon City</span></h2>
 		<span>
 			25 West Road cor. North Road, Cubao Quezon City<br>
-			1PM - 10PM Monday to Sunday
+			2PM - 10PM Monday to Friday <br>
+			12NN - 8PM Weekends <br>
+			(02) 412 7480
 		</span>
 
 		<div class="rates">
 			<span>
-				<strong>Day Rate:</strong> P210
+				<strong>Day Rate:</strong> P200
 			</span>
 
 			<span>
@@ -138,10 +164,12 @@ image: /assets/images/og-image.jpg
 	</article>
 
 	<article>
-		<h2>Power Up Centro ROX <span>Taguig</span></h2>
+		<h2>Power Up ROX <span>Taguig</span></h2>
 		<span>
 			Recreational Outdoor Exchange, Bonifacio High Street<br>
-			2PM - 10PM Monday to Sunday
+			2PM - 10PM Monday to Friday <br>
+			12NN - 8PM Weekends <br>
+			(02) 856 4638
 		</span>
 
 		<div class="rates">
