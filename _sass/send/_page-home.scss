@@ -16,11 +16,8 @@
 			color: #fff;
 		}
 
-		h4 {
-			font-family: $copy-font-family;
-			font-weight: 400;
-			margin-top: -10px;
-			margin-bottom: 4rem;
+		.post-title {
+			margin-bottom: -10px;
 		}
 
 		& > div {
@@ -46,10 +43,6 @@
 			flex-basis: 50%;
 			background-color: $base-color;
 		}
-	}
-
-	h2 {
-		text-transform: uppercase;
 	}
 
 	.post-list {
@@ -151,7 +144,7 @@
 
 		.article {
 			margin: 0 !important;
-			padding-bottom: 3rem;	
+			padding-bottom: 1.3rem;	
 		}
 	}
 

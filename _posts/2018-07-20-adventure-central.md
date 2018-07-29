@@ -16,7 +16,7 @@ Koy, Sha, and Francis are three of the 11-person founding group of Iloilo's late
 
 Pump Factory was a four-wall indoor climbing facility that was also situated along the Iloilo River esplanade. It was a training ground, not only for Iloilo's top rock climbers, but for the gym owners as well. 
 
-Currently, Adventure Central is marketed as an outdoor sports center(?), targeting outdoor sports enthusiasts in general, not just rock climbers. This, they say, is a  very wise move given that climbing is a non-mainstream sport; supplanting the gym with activities such as kayaking tours, mountaineering guideship, and mountain biking events, keeps the facility going and allows it to become a hub for all outdoor enthusiasts in the vicinity.
+Currently, Adventure Central is marketed as an outdoor sports center, targeting outdoor sports enthusiasts in general, not just rock climbers. This, they say, is a  very wise move given that climbing is a non-mainstream sport; supplanting the gym with activities such as kayaking tours, mountaineering guideship, and mountain biking events, keeps the facility going and allows it to become a hub for all outdoor enthusiasts in the vicinity.
 
 I ask them what the most challenging part of running a facility such as Adventure Central is. They answer that dealing with paperwork, being able to retain their climbing gym members, and due to logistics, outdoor climbing are among the most difficult tasks
 

@@ -54,6 +54,15 @@ a {
 	@extend h4;
 	font-family: 'acumin-pro-condensed', sans-serif;
 	text-transform: uppercase;
+	font-size: 1.5em !important;
+}
+
+.subtitle {
+	font-style: italic;
+}
+
+.date-author {
+	opacity: 0.5
 }
 
 // Forms 

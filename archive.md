@@ -8,7 +8,7 @@ image: /assets/images/og-image.jpg
 
 	{% for post in site.posts %}
 	<div class="">
-	    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	    <div class="date-author">
 	        <span class="author">{{ post.author }}</span> &middot;
 	        <span class="post-meta">{{ post.date | date_to_long_string }}</span>
