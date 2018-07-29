@@ -4,7 +4,7 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
     {% if page.higher-hero %}
-    <img src="{{ page.higher-hero }}" alt="higher-hero-image">
+    <img src="{{ page.higher-hero }}" alt="higher-hero-image" class="hero-image">
     {% endif %}
 
     <header  
@@ -25,7 +25,7 @@ layout: default
     </header>
     
     {% if page.lower-hero %}
-    <img src="{{ page.lower-hero }}" alt="lower-hero-image">
+    <img src="{{ page.lower-hero }}" alt="lower-hero-image" class="hero-image">
     {% endif %}
 
     <div class="post-content e-content" itemprop="articleBody">
