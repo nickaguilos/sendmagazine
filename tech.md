@@ -10,5 +10,10 @@ permalink: tech-log
 					- Release of V1. With 5 articles. 
 				- July 30, 2018: 
 					- Addition of terms.
+					- Addition of robots.txt
 					- Creation of sitemap.xml
+
+				*******
+
+				found a bug? send us a message via contact link in footer
 
