@@ -13,6 +13,7 @@ permalink: tech-log
 					- Addition of robots.txt
 					- Creation of sitemap.xml
 					- Prefetching TypeKit fonts 
+					- Adding facebook pixel
 
 				*******
 
