@@ -3,7 +3,7 @@ layout: post
 title: "Climbing Starter Kit"
 author: Cindy McSender
 tag: other-articles
-image: /assets/images/starter-kit/1-jpg
+image: /assets/images/starter-kit/1.jpg
 description: Want to try rock climbing but don’t know where to start? Worry not, this article has all you need to know in order to begin!
 ---
 
