@@ -4,6 +4,7 @@ title: "Story: Adventure Central"
 author: Nick Aguilos
 tag: other-articles
 higher-hero: /assets/images/issue-1/ac/hero-image.jpg
+image: /assets/images/issue-1/ac/hero-image.jpg
 description: Along the banks of the Iloilo River is a climbing gym that aims to spread the outdoor sports mentality to a wider audience in Iloilo.
 ---
 
