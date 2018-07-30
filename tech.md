@@ -1,9 +1,8 @@
 ---
+layout: default
 title: Tech Log
 permalink: tech-log
 ---
-![Send Magazine]({{ '/assets/favicon-32x32.png' | absolute_url }}) <br>
-[Return To Main Site &rarr;]('/'){:style="float: right;"}
 
 				Coded by Nick Aguilos. Running on Jekyll.
 
