@@ -12,6 +12,7 @@ permalink: tech-log
 					- Addition of terms.
 					- Addition of robots.txt
 					- Creation of sitemap.xml
+					- Prefetching TypeKit fonts 
 
 				*******
 
