@@ -183,6 +183,29 @@ image: /assets/images/og-image.jpg
 		</div>
 	</article>
 
+	<article>
+		<h2>Urban Peak <span>Imus, Cavite</span></h2>
+		<span>
+			4/F Lotus Central Mall, Imus, Cavite<br>
+			12PM - 10PM Daily <br>
+			09955130450
+		</span>
+
+		<div class="rates">
+			<span>
+				<strong>Day Rate:</strong> P160
+			</span>
+
+			<span>
+				<strong>Monthly Pass:</strong> P1600
+			</span>
+
+			<span>
+				<strong>Promo:</strong> P200 1 Hour All In 
+			</span>
+		</div>
+	</article>
+
 	<div class="link-to-contact">
 		<p>
 			We want to provide a very comprehensive list of indoor climbing facilities all over the country. If you have a gym you want us to list here, please send us an email via the <strong><a href="contact.html">Contact Page</a></strong>.
