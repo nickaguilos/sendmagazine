@@ -184,6 +184,25 @@ image: /assets/images/og-image.jpg
 	</article>
 
 	<article>
+		<h2>Sandugo Wall <span>Taguig</span></h2>
+		<span>
+			5/F Mabini ave, 22nd Street corner McKinley Parkway, Taguig City<br>
+			1PM - 9PM Tuesday to Sunday <br>
+			(02) 798 2696
+		</span>
+
+		<div class="rates">
+			<span>
+				<strong>Day Rate:</strong> P340 (with belayer)
+			</span>
+
+			<span>
+				<strong>Single Climb:</strong> P50
+			</span>
+		</div>
+	</article>
+
+	<article>
 		<h2>Urban Peak <span>Imus, Cavite</span></h2>
 		<span>
 			4/F Lotus Central Mall, Imus, Cavite<br>
