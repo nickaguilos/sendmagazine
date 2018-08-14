@@ -15,6 +15,9 @@ permalink: tech-log
 					- Prefetching TypeKit fonts 
 					- Adding facebook pixel
 
+				- August 13-14, 2018
+					- Addition of Urban Peak and Sandugo Wall to directory.md
+
 				*******
 
 				found a bug? send us a message via contact link in footer
