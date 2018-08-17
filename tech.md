@@ -18,6 +18,9 @@ permalink: tech-log
 				- August 13-14, 2018
 					- Addition of Urban Peak and Sandugo Wall to directory.md
 
+				- August 17, 2018
+					- Addition of Edge Climb Gym to directory.md
+
 				*******
 
 				found a bug? send us a message via contact link in footer

@@ -124,6 +124,28 @@ image: /assets/images/og-image.jpg
 	</article>
 
 	<article>
+		<h2>Edge Climb Gym <span>Pasig City</span></h2>
+		<span>
+			Ortigas Technopoint One, #1 Doño Julia Vargas, Brgy. Ugong, Pasig City<br>
+			1PM to 10PM Daily
+		</span>
+
+		<div class="rates">
+			<span>
+				<strong>Day Rate (Adults):</strong> P350
+			</span>
+
+			<span>
+				<strong>Monthly Pass:</strong> P2500
+			</span>
+
+			<span>
+				<strong>10 Climb Pass (Transferrable):</strong> P2800
+			</span>
+		</div>
+	</article>
+
+	<article>
 		<h2>Power Up Tandang Sora <span>Quezon City</span></h2>
 		<span>
 			690 Tandang Sora Avenue, Old Balara, Quezon City<br>
