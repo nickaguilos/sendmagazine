@@ -6,27 +6,20 @@
 	grid-template-columns: repeat(12, 1fr);
 	
 	#featured {
-		background-color: $base-color;
 		grid-column: 1/13;
 		margin-bottom: 3rem;
-		color: #fff;
 		font-size: 16px;
 
-		a {
-			color: #fff;
+		.inner-wrap {
+			flex-direction: column;
 		}
 
 		.post-title {
 			margin-bottom: -10px;
 		}
 
-		& > div {
-			display: flex;
-			align-items: center;
-		}
-
 		.image {
-			flex-basis: 50%;
+			
 			line-height: 0;	
 			background-size: cover;	
 			width: 100%;
@@ -40,8 +33,6 @@
 
 		.content {
 			padding: 2rem;
-			flex-basis: 50%;
-			background-color: $base-color;
 		}
 	}
 
