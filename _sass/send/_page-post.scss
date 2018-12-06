@@ -8,7 +8,7 @@
 
 	.post-header {
 		text-align: center;
-		padding: 3rem 0;
+		padding-top: 3rem;
 
 		&.with-background {
 			min-height: 300px;
@@ -25,6 +25,10 @@
 		line-height: 1em;
 		// font-size: 5em;
 		margin: 0;
+	}
+
+	.post-meta {
+		font-family: $base-font-family;
 	}
 
 	// For Captions
@@ -57,7 +61,7 @@
 		p, h5 {
 			margin: 1.5rem auto;
 			max-width: 700px;
-			font-family: $article-font-family;
+			font-family: $copy-font-family;
 		}
 
 		h5 {

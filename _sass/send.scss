@@ -5,13 +5,14 @@
 @import url("https://use.fontawesome.com/releases/v5.2.0/css/brands.css");
 @import url("https://use.fontawesome.com/releases/v5.2.0/css/solid.css");
 
-$base-font-family: 'halyard-text', -apple-system, BlinkMacSystemFont, sans-serif;
-$copy-font-family: 'acumin-pro', -apple-system, BlinkMacSystemFont,  sans-serif;
+$base-font-family: 'acumin-pro', -apple-system, BlinkMacSystemFont, sans-serif;
+$copy-font-family: 'skolar-latin', serif;
 $article-font-family: 'acumin-pro', -apple-system, BlinkMacSystemFont,  sans-serif;
 $base-color: #1a1a1a;
 $font-color: #111;
 $hover-color: #aaa;
 $border-color: #ddd;
+$highlight-color: #e66b72;
 
 // Breakpoints 
 $xsmall-device: 320px;
