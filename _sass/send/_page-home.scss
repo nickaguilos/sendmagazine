@@ -124,6 +124,20 @@
 		}
 	}
 
+	.third-row-posts {
+		.flex-wrapper {
+			flex-wrap: wrap;
+		}
+
+		.article {
+			margin-left: 0;
+			
+			&:nth-child(1), &:nth-child(2) {
+				flex-basis: 47%;
+			}
+		}
+	}
+
 	// Smartphone sizing
 	@media screen and (max-width: $small-device) {
 		#featured {
