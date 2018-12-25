@@ -125,8 +125,9 @@
 	}
 
 	.third-row-posts {
-		.flex-wrapper {
-			flex-wrap: wrap;
+		.grid-wrapper {
+			display: grid;
+			grid-template-columns: repeat(3, 1fr)
 		}
 
 		.article {
@@ -195,6 +196,12 @@
 
 		.section-heading {
 			font-size: 16px !important;
+		}
+
+		.third-row-posts {
+			.grid-wrapper {
+				grid-template-columns: repeat(1, 1fr);
+			}
 		}
 	}
 
