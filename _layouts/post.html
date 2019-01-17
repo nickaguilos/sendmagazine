@@ -21,7 +21,14 @@ layout: default
         
         {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-        {%- endif -%}</p>
+        {%- endif -%}
+
+        {%- if page.photographer -%}
+        <br>
+        <span>Photos by: {{page.photographer}} </span>
+        {%- endif -%}
+
+        </p>
     </header>
     
     {% if page.lower-hero %}

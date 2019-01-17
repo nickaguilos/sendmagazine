@@ -8,6 +8,12 @@ body {
 	margin: 0;
 }
 
+hr {
+	margin: 3em 0;
+	border: 0;
+	border-bottom: 2px dotted #ccc;
+}
+
 .iframe-wrapper {
 	position: relative;
     overflow: hidden;

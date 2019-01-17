@@ -47,6 +47,20 @@
 		margin: -3em 0 2em 0;
 	}
 
+	img.floated-left {
+		float: left;
+		width: 50%;
+		margin: 0 1em 1em 0;
+		border: 5px solid #eee;
+	}
+
+	img.floated-right {
+		float: right;
+		width: 50%;
+		margin: 0 0 1em 1em;
+		border: 5px solid #eee;
+	}
+
 	.post-content, #related-post {
 		max-width: 700px;
 		margin: 0 auto;
@@ -56,6 +70,10 @@
 			margin-bottom: 2rem;
 			font-weight: 400;
 			text-align: center;
+		}
+
+		h3 {
+			line-height: 0;
 		}
 
 		p, h5 {
