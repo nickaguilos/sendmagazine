@@ -35,7 +35,7 @@ layout: default
         <!-- <h2 class="section-heading">More Articles</h2> -->
         
         <div class="article-wrapper flex-wrapper">
-            {% for post in site.tags.other-articles limit:2 %}
+            {% for post in site.tags.other-articles limit:3 %}
             <div class="article">
                 <div class="flex-wrapper inner-wrapper">
                     <div class="img-wrapper">
@@ -91,13 +91,16 @@ layout: default
                 <img src="assets/images/issue-2/l4l/2.jpg" alt="Lust for lime cover image">
             </a>
         </div>
+
+        <a href="{{ post.url | relative_url }}" class=
+        'button'>View Photo Story</a>
     </section>
     {% endfor %}
 
     <!-- Support Articles -->
     <div class="third-row-posts post-list">
         <div class="article-wrapper grid-wrapper">
-            {% for post in site.tags.other-articles offset:2 %}
+            {% for post in site.tags.other-articles offset:3 %}
             <div class="article">
                 <div class="flex-wrapper inner-wrapper">
                     <!-- <div class="img-wrapper">
