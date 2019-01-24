@@ -66,33 +66,6 @@ layout: default
         </div>
     </div>
 
-    <!-- Featured Photo Post -->
-    {% for post in site.tags.photo-feature %}
-    <section class="featured-photo">
-        <div class="content">
-            <h2 class="section-heading">Featured Photo Story</h2>
-            <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-            <div class="date-author">
-                <span class="author">{{ post.author }}</span> &middot;
-                <span class="post-meta">{{ post.date | date_to_long_string }}</span>
-            </div>
-            <p>
-                {{ post.description }}
-            </p>
-        </div>
-
-        <div class="img-row">
-            <a href="{{ post.url | relative_url }}">
-                <img src="assets/images/issue-2/l4l/1.jpg" alt="Lust for lime cover image">
-            </a>
-
-            <a href="{{ post.url | relative_url }}">
-                <img src="assets/images/issue-2/l4l/2.jpg" alt="Lust for lime cover image">
-            </a>
-        </div>
-    </section>
-    {% endfor %}
-
     <div class="second-row-posts post-list">
         <div class="article-wrapper flex-wrapper">
             {% for post in site.tags.other-articles limit:2 offset:2 %}
@@ -127,9 +100,40 @@ layout: default
     </div>
     <!-- End Support Articles --> 
 
+    <!-- Featured Photo Post -->
+    {% for post in site.tags.photo-feature %}
+    <section class="featured-photo">
+        <div class="content">
+            <h2 class="section-heading">Featured Photo Story</h2>
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+            <div class="date-author">
+                <span class="author">{{ post.author }}</span> &middot;
+                <span class="post-meta">{{ post.date | date_to_long_string }}</span>
+            </div>
+            <p>
+                {{ post.description }}
+            </p>
+        </div>
+
+        <div class="img-row">
+            <a href="{{ post.url | relative_url }}">
+                <img src="assets/images/issue-2/l4l/1.jpg" alt="Lust for lime cover image">
+            </a>
+
+            <a href="{{ post.url | relative_url }}">
+                <img src="assets/images/issue-2/l4l/2.jpg" alt="Lust for lime cover image">
+            </a>
+        </div>
+
+        <a href="{{ post.url | relative_url }}" class="button">
+            View Photo Story
+        </a>
+    </section>
+    {% endfor %}
+
+
     <!-- Support Articles -->
     <div class="third-row-posts post-list">
-        <hr>
         <div class="article-wrapper grid-wrapper">            
             {% for post in site.tags.other-articles offset:4 %}
             <div class="article">
@@ -160,8 +164,11 @@ layout: default
             </div>
             {% endfor %}
         </div>
+        <hr>
     </div>
     <!-- End Support Articles -->
+
+    {%- include ad.html -%}
 </div>
 
 <div class="more-loader">

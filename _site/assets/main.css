@@ -3,7 +3,7 @@
 @import url("https://use.fontawesome.com/releases/v5.2.0/css/solid.css");
 html {
   box-sizing: border-box;
-  font-family: "skolar-latin", serif;
+  font-family: "freight-text-pro", serif;
   font-size: 18px; }
 
 body {
@@ -12,7 +12,7 @@ body {
 hr {
   margin: 3em 0;
   border: 0;
-  border-bottom: 2px dotted #ccc; }
+  border-bottom: 5px solid #222; }
 
 .iframe-wrapper {
   position: relative;
@@ -39,7 +39,7 @@ img {
   pointer-events: none; }
 
 p {
-  font-family: "skolar-latin", serif;
+  font-family: "freight-text-pro", serif;
   line-height: 1.5em; }
   p a {
     font-weight: bold;
@@ -50,12 +50,12 @@ a {
   color: #111;
   transition: all 0.4s; }
   a:hover {
-    color: #aaa !important; }
+    color: #444 !important; }
   a.highlighted {
-    color: #aaa; }
+    color: #444; }
 
 .section-heading {
-  font-family: "acumin-pro", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: "aktiv-grotesk", sans-serif;
   text-transform: uppercase;
   color: #e66b72; }
 
@@ -64,7 +64,11 @@ a {
 
 .date-author {
   opacity: 0.5;
-  font-family: "acumin-pro", -apple-system, BlinkMacSystemFont, sans-serif; }
+  font-family: "aktiv-grotesk", sans-serif; }
+
+.subtext {
+  font-size: 16px;
+  color: #555; }
 
 label {
   display: block;
@@ -91,7 +95,7 @@ button, .button {
   font-size: 1rem;
   padding: 1rem 3rem 1.2rem 3rem; }
   button:hover, .button:hover {
-    background-color: #aaa;
+    background-color: #444;
     color: #fff !important; }
 
 .sharer {
@@ -106,7 +110,7 @@ button, .button {
 .more-loader {
   text-align: center;
   padding: 5em 0; }
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 600px) {
     .more-loader {
       padding: 0; }
       .more-loader a {
@@ -115,7 +119,7 @@ button, .button {
 
 body {
   font-size: 100%;
-  font-family: "acumin-pro", -apple-system, BlinkMacSystemFont, sans-serif; }
+  font-family: "aktiv-grotesk", sans-serif; }
 
 body, caption, th, td, input, textarea, select, option, legend, fieldset, h1, h2, h3, #about h2, h4, .section-heading, h5, h6 {
   font-size-adjust: 0.5; }
@@ -232,12 +236,11 @@ blockquote {
   border-top: 1px solid #ddd;
   padding: 1rem;
   padding-bottom: 2rem;
-  margin-top: 3rem;
   font-size: 14px; }
   #site-footer a {
     display: inline-block;
     padding-right: 20px; }
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 600px) {
     #site-footer {
       flex-direction: column;
       padding: 1rem;
@@ -262,7 +265,7 @@ blockquote {
     .home #featured .image {
       line-height: 0;
       background-size: cover;
-      background-color: #aaa;
+      background-color: #444;
       width: 100%; }
       .home #featured .image a {
         display: block;
@@ -274,6 +277,15 @@ blockquote {
       background: #fff;
       max-width: 1000px;
       text-align: center; }
+      @media screen and (max-width: 1000px) {
+        .home #featured .content {
+          margin-top: 0; } }
+  .home #ad {
+    grid-column: 2/12; }
+    .home #ad a {
+      display: block; }
+      .home #ad a:hover {
+        opacity: 0.8; }
   .home .post-list {
     grid-column: 2/12;
     list-style: none;
@@ -295,20 +307,16 @@ blockquote {
       .home .post-list .article .content {
         padding-top: 1rem; }
   .home .date-author {
-    opacity: 0.5; }
+    opacity: 0.5;
+    font-size: 16px; }
   .home .featured-photo {
     text-align: center;
-    grid-column: 1/13;
-    padding: 2rem 0 3rem 0;
+    grid-column: 2/12;
+    padding: 2rem 1rem 3rem 1rem;
     margin: 3rem 0;
-    border-top: 1px solid #ddd;
-    border-bottom: 1px solid #ddd;
-    background-color: #111;
-    color: #fff; }
+    border: 5px solid #222; }
     .home .featured-photo h3, .home .featured-photo #about h2, #about .home .featured-photo h2 {
       margin: 0; }
-      .home .featured-photo h3 a, .home .featured-photo #about h2 a, #about .home .featured-photo h2 a {
-        color: #fff; }
     .home .featured-photo p {
       max-width: 700px;
       text-align: center;
@@ -336,7 +344,7 @@ blockquote {
       -webkit-line-clamp: 3;
       -webkit-box-orient: vertical;
       text-overflow: ellipsis; }
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 600px) {
     .home #featured .content {
       padding: 1rem; }
       .home #featured .content .subtitle {
@@ -349,15 +357,19 @@ blockquote {
       margin-bottom: 1.5rem; }
     .home .flex-wrapper {
       flex-direction: column; }
+    .home .date-author {
+      margin-top: 5px;
+      font-size: 14px; }
+    .home .post-list p {
+      margin: 0.5em 0; }
     .home .post-list, .home .featured-photo {
       grid-column: 1/13;
       padding: 1em; }
     .home .featured-photo, .home #featured {
       margin: 0; }
     .home .featured-photo {
-      padding-bottom: 3rem; }
-      .home .featured-photo h3, .home .featured-photo #about h2, #about .home .featured-photo h2 {
-        font-size: 2rem; }
+      padding-bottom: 3rem;
+      margin: 1em; }
       .home .featured-photo .img-row {
         margin-left: -1rem;
         margin-right: -1rem; }
@@ -368,7 +380,7 @@ blockquote {
       font-size: 16px !important; }
     .home .third-row-posts .grid-wrapper {
       grid-template-columns: repeat(1, 1fr); } }
-  @media screen and (min-width: 501px) and (max-width: 999px) {
+  @media screen and (min-width: 601px) and (max-width: 999px) {
     .home #featured .image a {
       height: 300px; }
     .home #featured h4, .home #featured .section-heading {
@@ -394,7 +406,8 @@ blockquote {
   line-height: 1em;
   margin: 0; }
 .post .post-meta {
-  font-family: "acumin-pro", -apple-system, BlinkMacSystemFont, sans-serif; }
+  font-family: "aktiv-grotesk", sans-serif;
+  margin: 1em 0; }
 .post img + em, .post .image-row + p > em {
   font-size: 0.8em;
   display: block;
@@ -414,29 +427,27 @@ blockquote {
   width: 50%;
   margin: 0 0 1em 1em;
   border: 5px solid #eee; }
-.post .post-content, .post #related-post {
+.post .post-content, .post #related-post .inner-wrapper {
   max-width: 700px;
   margin: 0 auto; }
-  .post .post-content .pre-text, .post #related-post .pre-text {
+  .post .post-content .pre-text, .post #related-post .inner-wrapper .pre-text {
     font-size: 1.5rem;
     margin-bottom: 2rem;
-    font-weight: 400;
+    font-weight: bold;
     text-align: center; }
-  .post .post-content h3, .post .post-content #about h2, #about .post .post-content h2, .post #related-post h3, .post #related-post #about h2, #about .post #related-post h2 {
-    line-height: 0; }
-  .post .post-content p, .post .post-content h5, .post #related-post p, .post #related-post h5 {
+  .post .post-content p, .post .post-content h5, .post #related-post .inner-wrapper p, .post #related-post .inner-wrapper h5 {
     margin: 1.5rem auto;
     max-width: 700px;
-    font-family: "skolar-latin", serif; }
-  .post .post-content h5, .post #related-post h5 {
+    font-family: "freight-text-pro", serif; }
+  .post .post-content h5, .post #related-post .inner-wrapper h5 {
     margin-top: 2.5rem; }
-  .post .post-content .image-row, .post #related-post .image-row {
+  .post .post-content .image-row, .post #related-post .inner-wrapper .image-row {
     display: flex;
     justify-content: center; }
-    .post .post-content .image-row p:first-of-type, .post #related-post .image-row p:first-of-type {
+    .post .post-content .image-row p:first-of-type, .post #related-post .inner-wrapper .image-row p:first-of-type {
       margin-right: 1rem; }
     @media screen and (min-width: 1000px) {
-      .post .post-content .image-row.medium, .post #related-post .image-row.medium {
+      .post .post-content .image-row.medium, .post #related-post .inner-wrapper .image-row.medium {
         position: relative;
         left: -150px;
         width: 1000px; } }
@@ -447,12 +458,13 @@ blockquote {
 .post #related-post {
   padding: 3em 0;
   margin-top: 5em;
-  border-top: 1px dotted #ddd; }
+  border-top: 1px dotted -color;
+  background-color: pink; }
 @keyframes move-arrow {
   from {
     left: 0; }
   to {
-    left: 5px; } }
+    left: 10px; } }
   .post #related-post .fas {
     display: block;
     position: relative; }
@@ -461,16 +473,14 @@ blockquote {
   .post #related-post a {
     display: flex;
     align-items: center; }
-    .post #related-post a:hover {
-      color: #1a1a1a !important; }
-      .post #related-post a:hover h3, .post #related-post a:hover #about h2, #about .post #related-post a:hover h2 {
-        opacity: 0.5; }
-      .post #related-post a:hover .fas {
-        animation-name: move-arrow;
-        animation-duration: 0.5s;
-        animation-iteration-count: 1;
-        opacity: 0.5; }
-@media screen and (max-width: 500px) {
+    .post #related-post a:hover h3, .post #related-post a:hover #about h2, #about .post #related-post a:hover h2 {
+      opacity: 0.5; }
+    .post #related-post a:hover .fas {
+      animation-name: move-arrow;
+      animation-duration: 0.5s;
+      animation-iteration-count: 1;
+      opacity: 0.5; }
+@media screen and (max-width: 600px) {
   .post .post-header {
     padding-bottom: 0; }
   .post .post-content {
@@ -483,7 +493,52 @@ blockquote {
       font-size: 1.2rem;
       margin: 0; }
     .post .post-content .image-row p {
-      margin: 0 !important; } }
+      margin: 0 !important; }
+  .post img.floated-left, .post img.floated-right {
+    float: none;
+    width: 95%;
+    margin: 0; }
+  .post #related-post {
+    padding: 3em 1em; } }
+
+#natl-team {
+  max-width: 100%; }
+  #natl-team #section-nav {
+    padding: 1em;
+    margin: 1em;
+    background-color: #fff;
+    border: 3px solid #222;
+    overflow-x: scroll;
+    white-space: nowrap; }
+    #natl-team #section-nav ::-webkit-scrollbar {
+      display: none; }
+    #natl-team #section-nav a {
+      display: inline-block;
+      margin-left: 1em; }
+  #natl-team .sharer {
+    max-width: 700px;
+    margin: 0 auto; }
+  #natl-team > section {
+    display: flex;
+    position: relative; }
+    @media screen and (max-width: 600px) {
+      #natl-team > section {
+        flex-direction: column; }
+        #natl-team > section div:nth-child(2) {
+          margin-left: 0 !important; } }
+    #natl-team > section div:first-child {
+      flex: 50%; }
+      @media screen and (max-width: 700px) {
+        #natl-team > section div:first-child {
+          flex: 60%; } }
+      #natl-team > section div:first-child > p {
+        position: sticky;
+        top: 0; }
+    #natl-team > section div:nth-child(2) {
+      flex: 75%;
+      margin-left: 3em; }
+      #natl-team > section div:nth-child(2) p {
+        margin-left: 0; }
 
 #about h2 {
   margin: 0; }
@@ -500,7 +555,7 @@ blockquote {
       height: 100px;
       border-radius: 100px;
       margin-right: 1em; }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
   #about .faces {
     flex-direction: column; }
     #about .faces article {
@@ -514,9 +569,14 @@ blockquote {
     grid-column: 3/10; }
   .archive h2 {
     margin-bottom: 0; }
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 600px) {
     .archive > * {
-      grid-column: 1/12; } }
+      grid-column: 1/12; }
+    .archive .date-author {
+      margin-top: 5px;
+      font-size: 14px; }
+    .archive p {
+      margin: 0.5em 0; } }
 
 .directory {
   padding: 1rem;
@@ -525,18 +585,15 @@ blockquote {
   .directory > * {
     grid-column: 3/10; }
   .directory article {
-    margin: 1rem 0;
-    padding-bottom: 3rem; }
+    margin: 1rem 0; }
   .directory h2 {
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     margin: 0; }
-    .directory h2 span {
-      font-weight: 400; }
   .directory .rates {
     margin-top: 1rem; }
     .directory .rates span {
       display: inline-block;
       margin-right: 3rem; }
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 600px) {
     .directory > * {
       grid-column: 1/12; } }

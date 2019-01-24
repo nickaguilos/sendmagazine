@@ -7,7 +7,7 @@ description: Lust for Lime has been the annual go to rock trip to the crags of C
 image: /assets/images/issue-1/nationals/1.jpg
 ---
 
-<p class="pre-text">Lust for Lime has been the go to rocktrip in the Philippines to date. We ask Lilay Marquez, a local adventure photographer from Cebu to show us what the 14th Lust for Lime looked through her lens</p>
+Lust for Lime has been the go to rocktrip in the Philippines to date. We ask Lilay Marquez, a local adventure photographer from Cebu to show us what the 14th Lust for Lime looked through her lens
 
 ![{{ page.title }}]({{ '/assets/images/issue-2/l4l/post-4.jpg' | relative_url }})
 Vlad Mazurenko from Ukraine gets ready for his first climb of the day

@@ -8,243 +8,159 @@ image: /assets/images/og-image.jpg
 
 	<article>
 		<h2>Power Up ROC <span>Bacolod City</span></h2>
-		<span>
+		<p>
 			11 street corner Tindalo Street, Bacolod City<br>
 			+63 927 552 5025 <br>
 			1PM - 10PM Monday to Sunday
-		</span>
+		</p>
 
-		<div class="rates">
-			<span>
-				<strong>Day Rate:</strong> P210 (inclusive of gear)
-			</span>
-
-			<span>
-				<strong>Monthly Pass:</strong> P1300
-			</span>
-		</div>
+		<p>
+			<strong>Day Rate:</strong> P210 (inclusive of gear)
+			<strong>Monthly Pass:</strong> P1300
+		</p>
 	</article>
 
 	<article>
 		<h2>Guru Rock Climbing Gym <span>Cagayan De Oro City</span></h2>
-		<span>
+		<p>
 			Guru Rock Climbing Gym, Mandumol, Macasandig, Cagayan De Oro City <br>
 			09266300525 <br>
 			4PM - 9PM, Monday to Sunday
-		</span>
+		</p>
 
-		<div class="rates">
-			<span>
-				<strong>Day Rate:</strong> P150
-			</span>
-
-			<span>
-				<strong>Monthly Pass:</strong> P700
-			</span>
-		</div>
+		<p>
+			<strong>Day Rate:</strong> P150 <br>
+			<strong>Monthly Pass:</strong> P700
+		</p>
 	</article>
 
 	<article>
 		<h2>Marco Hotel Sports Avenue <span>Cagayan De Oro City</span></h2>
-		<span>
+		<p>
 			Alwana Business Park Cugman, Cagayan De Oro City<br>
 			(088)8552201, (088)8552202, (088)8552203, loc 123
-		</span>
+		</p>
 
-		<div class="rates">
-			<span>
-				<strong>Day Rate:</strong> P120
-			</span>
-
-			<span>
-				<strong>Monthly Pass:</strong> P800
-			</span>
-		</div>
-	</article>
-
-	<article>
-		<h2>HOMWOL Climbing Gym <span>Cebu City</span></h2>
-		<span>
-			#2 Sapphire Street, Gemsville Subdivision, Lahug, Cebu City<br>
-		</span>
-
-		<div class="rates">
-			<span>
-				<strong>Day Rate:</strong> P50
-			</span>
-
-			<span>
-				<strong>Monthly Pass:</strong> P200
-			</span>
-
-			<span>
-				<strong>Shoe Rental:</strong> P50/Day
-			</span>
-		</div>
+		<p>
+			<strong>Day Rate:</strong> P120 <br>
+			<strong>Monthly Pass:</strong> P800
+		</p>
 	</article>
 
 	<article>
 		<h2>Adventure Central <span>Iloilo City</span></h2>
-		<span>
+		<p>
 			Esplanade 1, R. Mapa Street, Tabucan, Manduriao, Iloilo City<br>
-		</span>
+		</p>
 
-		<div class="rates">
-			<span>
-				<strong>Day Rate:</strong> P150
-			</span>
+		<p>
+			<strong>Day Rate:</strong> P150 <br>
+			<strong>Monthly Pass:</strong> P1200
 
-			<span>
-				<strong>Monthly Pass:</strong> P1200
-			</span>
-		</div>
-		<small>Note: Adventure Central has an extensive list of rates depending on the timeframe</small>
+			<small class="subtext">Note: Adventure Central has an extensive list of rates depending on the timeframe</small>
+		</p>
 	</article>
 
 	<article>
 		<h2>Climb Central <span>Mandaluyong City</span></h2>
-		<span>
+		<p>
 			Unit 02, The Portal, Mayflower Street,, Greenfield District, BRGY Highway Hills, Mandaluyong City, Philippines, 1552 Metro Manila<br>
 			(02) 721 8307
-		</span>
+		</p>
 
-		<div class="rates">
-			<span>
-				<strong>Day Rate (Adults):</strong> P400
-			</span>
-
-			<span>
-				<strong>Day Rate (Youth):</strong> P300
-			</span>
-
-			<span>
-				<strong>Monthly Pass:</strong> P2800
-			</span>
-		</div>
+		<p>
+			<strong>Day Rate (Adults):</strong> P400 <br>
+			<strong>Day Rate (Youth):</strong> P300 <br>
+			<strong>Monthly Pass:</strong> P2800
+		</p>
 	</article>
 
 	<article>
 		<h2>Edge Climb Gym <span>Pasig City</span></h2>
-		<span>
+		<p>
 			Ortigas Technopoint One, #1 Doño Julia Vargas, Brgy. Ugong, Pasig City<br>
 			1PM to 10PM Daily
-		</span>
+		</p>
 
-		<div class="rates">
-			<span>
-				<strong>Day Rate (Adults):</strong> P350
-			</span>
-
-			<span>
-				<strong>Monthly Pass:</strong> P2500
-			</span>
-
-			<span>
-				<strong>10 Climb Pass (Transferrable):</strong> P2800
-			</span>
-		</div>
+		<p>
+			<strong>Day Rate (Adults):</strong> P350 <br>
+			<strong>Monthly Pass:</strong> P2500 <br>
+			<strong>10 Climb Pass (Transferrable):</strong> P2800
+		</p>
 	</article>
 
 	<article>
 		<h2>Power Up Tandang Sora <span>Quezon City</span></h2>
-		<span>
+		<p>
 			690 Tandang Sora Avenue, Old Balara, Quezon City<br>
 			2PM - 10PM Monday to Friday <br>
 			12NN - 8PM Weekends <br>
 			(02) 932 7273
-		</span>
+		</p>
 
-		<div class="rates">
-			<span>
-				<strong>Day Rate:</strong> P200
-			</span>
-
-			<span>
-				<strong>Monthly Pass:</strong> P2000
-			</span>
-		</div>
+		<p>
+			<strong>Day Rate:</strong> P200
+			<strong>Monthly Pass:</strong> P2000
+		</p>
 	</article>
 
 	<article>
 		<h2>Power Up Centro Atletico <span>Quezon City</span></h2>
-		<span>
+		<p>
 			25 West Road cor. North Road, Cubao Quezon City<br>
 			2PM - 10PM Monday to Friday <br>
 			12NN - 8PM Weekends <br>
 			(02) 412 7480
-		</span>
+		</p>
 
-		<div class="rates">
-			<span>
-				<strong>Day Rate:</strong> P200
-			</span>
-
-			<span>
-				<strong>Monthly Pass:</strong> P2000
-			</span>
-		</div>
+		<p>
+			<strong>Day Rate:</strong> P200 <br>
+			<strong>Monthly Pass:</strong> P2000
+		</p>
 	</article>
 
 	<article>
 		<h2>Power Up ROX <span>Taguig</span></h2>
-		<span>
+		<p>
 			Recreational Outdoor Exchange, Bonifacio High Street<br>
 			2PM - 10PM Monday to Friday <br>
 			12NN - 8PM Weekends <br>
 			(02) 856 4638
-		</span>
+		</p>
 
-		<div class="rates">
-			<span>
-				<strong>Day Rate:</strong> P250
-			</span>
-
-			<span>
-				<strong>Monthly Pass:</strong> P2500
-			</span>
-		</div>
+		<p>
+			<strong>Day Rate:</strong> P250 <br>
+			<strong>Monthly Pass:</strong> P2500
+		</p>
 	</article>
 
 	<article>
 		<h2>Sandugo Wall <span>Taguig</span></h2>
-		<span>
+		<p>
 			5/F Mabini ave, 22nd Street corner McKinley Parkway, Taguig City<br>
 			1PM - 9PM Tuesday to Sunday <br>
 			(02) 798 2696
-		</span>
+		</p>
 
-		<div class="rates">
-			<span>
-				<strong>Day Rate:</strong> P340 (with belayer)
-			</span>
-
-			<span>
-				<strong>Single Climb:</strong> P50
-			</span>
-		</div>
+		<p>
+			<strong>Day Rate:</strong> P340 (with belayer) <br>
+			<strong>Single Climb:</strong> P50
+		</p>
 	</article>
 
 	<article>
 		<h2>Urban Peak <span>Imus, Cavite</span></h2>
-		<span>
+		<p>
 			4/F Lotus Central Mall, Imus, Cavite<br>
 			12PM - 10PM Daily <br>
 			09955130450
-		</span>
+		</p>
 
-		<div class="rates">
-			<span>
-				<strong>Day Rate:</strong> P160
-			</span>
-
-			<span>
-				<strong>Monthly Pass:</strong> P1600
-			</span>
-
-			<span>
-				<strong>Promo:</strong> P200 1 Hour All In 
-			</span>
-		</div>
+		<p>
+			<strong>Day Rate:</strong> P160 <br>
+			<strong>Monthly Pass:</strong> P1600 <br>
+			<strong>Promo:</strong> P200 1 Hour All In 
+		</p>
 	</article>
 
 	<div class="link-to-contact">
