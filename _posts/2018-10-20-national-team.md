@@ -5,10 +5,10 @@ author: Send Staff
 tag: featured
 identifier: natl-team
 image: /assets/images/issue-2/national-team/hero.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis nostrum nesciunt odit molestias earum minima reprehenderit ipsa! Inventore nobis suscipit vel. Hic magni saepe voluptatem numquam, itaque impedit vel. Debitis!
+description: Get to know the members of the Philippine National Climbing Team through these mini-profiles as they continue to train hard and break barriers in the climbing scene at home and abroad. In this article, the first of two parts, find out how the team members started out, why they love to climb, and why they keep on doing it.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus praesentium in voluptatibus tempora repellat, laudantium est quas officia, sequi officiis odio temporibus autem ducimus labore. Perferendis incidunt ratione ipsa quia.
+Get to know the members of the Philippine National Climbing Team through these mini-profiles as they continue to train hard and break barriers in the climbing scene at home and abroad. In this article, the first of two parts, find out how the team members started out, why they love to climb, and why they keep on doing it.
 
 <nav id="section-nav">
 	<strong>Jump To:</strong>
@@ -45,31 +45,32 @@ Gym you started climbing: Onsight Climbing Gym, Singapore*
 ***
 
 **Send**: When did you start climbing?  
-**Gerald**: I started climbing 4-and-a-half years ago (13 years old)  
+**Gerald**: I started climbing 4-and-a-half years ago (13 years old)
 
 **Send**: What got you into climbing?  
-**Gerald**: Started climbing because of my two older siblings who climb as well. I also wanted to try something new apart from the typical ball games and challenge myself.  
+**Gerald**: I started climbing because of my two older siblings who climb as well. I also wanted to try something new apart from the typical ball games and challenge myself.
 
 **Send**: What's your favorite part about climbing?  
 **Gerald**: My favourite part of climbing is the physical and mental challenge it gives me every time I’m on the wall, and also getting to meet new friends from around the world!
 
 **Send**: What keeps you going?  
-**Gerald**: I continue climbing because I have dreams of becoming a World Champion in the future. But ultimately, it's my passion and desire to get better which drives me day in, day out. Also it's family! Everyone is a climber so I have to keep up with my equally-passionate siblings! 
+**Gerald**: I continue climbing because I have dreams of becoming a World Champion in the future. But ultimately, it's my passion and desire to get better which drives me day in, day out. Also, it's family! Everyone is a climber so I have to keep up with my equally passionate siblings! 
 
 **Send**: What is the biggest climbing related challenge you've faced and how did you overcome this?  
-**Gerald**: The biggest challenge I've faced in climbing so far and am still facing, is probably my own self-expectations. Climbing is a lot on mental strength as much as it is on physical. Until today, I often get lost in my own hunger for progress and it sets me back- all the more when I don't exactly have a coach to guide me. Climbing is always fun, but when things start to get serious (e.g. pursuing a career in climbing), it can really be stressful. I cope by surrounding myself with people who constantly push me and remind me to have fun.
+**Gerald**: The biggest challenge I've faced in climbing so far and am still facing, is probably my own self-expectations. Climbing puts a lot of strain on your mental strength as much as it is on physical. Until today, I often get lost in my own hunger for progress and it sets me back- all the more when I don't exactly have a coach to guide me. Climbing is always fun, but when things start to get serious (e.g. pursuing a career in climbing), it can really be stressful. I cope by surrounding myself with people who constantly push me and remind me to have fun.
 
 **Send**: What's your favorite kind of hold and why?  
 **Gerald**: I love slopers! Among the other hold types, I must say I feel strongest on slopers! Plus, it doesn't hurt my fingers!
 
 **Send**: What is your favorite type of climbing?  
-**Gerald**: My favourite type of climbing is Bouldering. Bouldering teaches me a lot about my body and movement, but above all, it helps me feel free and liberated! 
+**Gerald**: My favourite type of climbing is bouldering. Bouldering teaches me a lot about my body and movement, but above all, it helps me feel free and liberated! 
 
 **Send**: What are your current goals now?  
 **Gerald**: My current goal is to consistently produce results for Team Philippines in all competitions next year. Long term goal will be qualifying for the 2020 Olympics in Tokyo! It is my dream.
 
 **Send**: How does it feel to be part of the national climbing team?  
-**Gerald**: Being part of an ever-evolving, ever-improving team with lots of potential is definitely a huge honour. As one of the youngest athletes, I am proud to represent the Philippines Climbing Team and be part of this project. Everyone in the team knows we're underdogs in the international competition scene, but that makes us all the more motivated to achieve great things in this sport for the Philippines.
+**Gerald**: Being part of an ever-evolving, ever-improving team with lots of potential is definitely a huge honour. As one of the youngest athletes, I am proud to represent the Philippines’ Climbing Team and be part of this project. Everyone in the team knows we're underdogs in the international competition scene, but that makes us all the more motivated to achieve great things in this sport for the Philippines.
+
 
 
 </div>
@@ -95,19 +96,19 @@ Home gym: Viajero Climbing gym*
 ***
 
 **Send**: When did you start climbing?  
-**Iman**: I was first introduced to climbing when I was 11 but only got into it in 2010 
+**Iman**: I was first introduced to climbing when I was 11 but only got into it in 2010.
 
-**Send**: What got you into climbing?   
-**Iman**: My parents at first. Eventually I just fell in love with it on my own.
+**Send**: What got you into climbing?  
+**Iman**: My parents at first. Eventually, I just fell in love with it on my own.
 
 **Send**: What's your favorite part about climbing?  
-**Iman**: The escape it gives and the unexplainable happiness i get from doing it.
+**Iman**: The escape it gives and the unexplainable happiness I get from doing it.
 
 **Send**: Why do you keep climbing?  
 **Iman**: I keep climbing because I constantly learn new things and always have the urge to keep improving my movement, strength and skill. But mostly because I just love doing it and enjoy every moment I am on an artificial wall or outdoors on real rocks climbing.
 
 **Send**: What is the biggest climbing related challenge you've faced and how did you overcome this?  
-**Iman**: The biggest would be climbing/training without injury, especially because it’s very demanding on the body. I have incorporated warm ups before climbing and stretching after as a must do.
+**Iman**: The biggest would be climbing or training without injury, especially because it’s very demanding on the body. I have incorporated warm ups before climbing and stretching after as a must-do.
 
 **Send**: What's your favorite kind of hold and why?  
 **Iman**: I love pinches. It used to be one of my weaknesses so I’m really happy to be able to hold on to different kind of pinches now. Fruit of labor thing.
@@ -118,8 +119,9 @@ Home gym: Viajero Climbing gym*
 **Send**: What are your current goals now?  
 **Iman**: My current goal is to stay healthy physically and mentally. It’s hard on us athletes to keep training our bodies and push limits so it’s very important for me to stay healthy and be ready to represent the country at anytime we have an upcoming competition. Also, to finish some projects I have outdoors.
 
-Send: How does it feel to be part of the national climbing team?
-Iman: I feel honored and at the same time excited to always have a reason to train harder as being part of the team.
+**Send**: How does it feel to be part of the national climbing team?  
+**Iman**: I feel honored and at the same time excited to always have a reason to train harder.
+
 
 
 </div>
@@ -143,7 +145,7 @@ Home gym:  Power Up Alabang*
 
 ***
 
-**Send**:When did you start climbing?  
+**Send**: When did you start climbing?  
 **Washington**: I started climbing when I was 22.
 
 **Send**: Why did you start climbing?  
@@ -171,6 +173,7 @@ Recovering from an injury affects me mentally as well. I need to keep myself mot
 
 **Send**: How does it feel to be part of the national climbing team?  
 **Washington**: It feels great as it has always been my dream to be part of the Philippine team. And now that I made it into the team, I’m going to keep training hard and do my best to represent my country well.
+
 
 
 </div>
@@ -221,6 +224,7 @@ Home gym: Power Up Tandang Sora*
 **John**: I feel honoured to be a part of the Philippine National Climbing Team. It means a lot to me. I hope to make our country proud and this keeps me motivated.
 
 
+
 </div>
 </section>
 
@@ -246,25 +250,23 @@ Home Gym: Power Up Centro Atletico*
 **Brandon**: 2015
 
 **Send**: Why did you start climbing?  
-**Brandon**: Ininvite lang ako ni Rochelle tapos tinry lang namin. Nakakatawa nga doon, eh kasi may isang area doon na hindi ko natapos pero siya natapos niya, hanggat sa binalikan namin nang binalikan ‘tas hanggang sa na-hook na kami sa climbing. 
-  
+**Brandon**: Ininvite lang ako ni Rochelle tapos tinry lang namin. Nakakatawa nga doon, eh kasi may isang area doon na hindi ko natapos pero siya, natapos niya, hangga’t sa binalikan namin nang binalikan ‘tas sa na-hook na kami sa climbing. 
+
 **Send**: What's your favorite part about climbing?  
 **Brandon**: Yung culture, yung mga tao- friendly, tapos masaya kasama. Mas masaya sa climbing kaysa sa ibang sport, yung bond mas iba.
 
 **Send**: What keeps you going?  
-**Brandon**: Noong dati kasi, nag-start kami, nag-set kami ng goal na kapag makapasa kami sa Philippine Team, okay. Tapos dati nung di pa kami kasama sa team, yung ginoal lang namin ay makapag-compete sa open international comps, para lang makasama. Tapos, yun na, yun na nag start.
+**Brandon**: Noong dati kasi, nag-set kami ng goal na kapag makapasa kami sa Philippine Team, okay. Tapos dati nung ‘di pa kami kasama sa team, yung [ginawa naming goal] ay makapag-compete sa open international comps, para lang makasama. Tapos, ‘yun na nag start.
 
 **Send**: What is the biggest climbing related challenge you've faced and how did you overcome this?  
-**Brandon**: Yung pag balance ng work at ng climbing, medyo challenging siya sa una. Pero, kasi ginagawa ko na lang na nag-schedule schedule na lang ako nang maayos.
+**Brandon**: Pag balance ng work at ng climbing, medyo challenging siya sa una. Pero, kasi ginagawa ko na lang na nag-schedule schedule na lang ako nang maayos.
 
 **Send**: What's your favorite kind of hold and why?  
 **Brandon**: Jug kasi madali mag-hang.
 
 **Send**: What are your current goals now?  
-**Brandon**: More on winning eh, saka tumaas yung grade namin sa climbing. Saka mas maganda, gusto namin manalo kami sa comp saka makatapos kami ng hard routes para mainspire yung ibang tao, lalo na mga beginners. Gusto namin na ma-inspire sila na mag-climb pa at mag-train din sila, para yung mga goals nila, makuha nila.
+**Brandon**: More on winning, saka tumaas yung grade namin sa climbing. Mas maganda, gusto naming manalo kami sa comp saka makatapos kami ng hard routes para mainspire yung ibang tao, lalo na mga beginners. Gusto namin na ma-inspire sila na mag-climb pa at mag-train din sila, para yung mga goals nila, makuha nila.
 
-**Send**: How does it feel to be part of the national climbing team?  
-**Brandon**: Masaya! Kasi may training saka nakikilala namin yung ibang tao eh, like hindi lang yung dito sa Philippines, pati yung sa abroad nakakausap namin. Saka yung mga idol namin sa IFSC nakikita rin namin, nakaka-picture. 
 
 </div>
 </section>
@@ -286,17 +288,17 @@ Home gym: Power Up Diliman/Tandang Sora*
 
 ***
 
-**Send**: When did you start climbing?   
+**Send**: When did you start climbing?  
 **Mhik**: 2006
 
 **Send**: Why did you start climbing?  
-**Mhik**: I started climbing in the University, P.E. class
+**Mhik**: I started climbing in the University of the Philippines, P.E. class
 
 **Send**: What's your favorite part about climbing?  
 **Mhik**: Learning never stops. [It’s an] unending process, you get stronger and stronger every time you climb as well. You also get to meet other climbers from other parts of the country and outside and learn from them also.
 
-**Send**: What keeps you going?   
-**Mhik**: [It’s] my stress reliever  I also enjoy the company. Gusto ko rin ma-overcome fear ko sa heights and makakuha ng gold sa international competitions.
+**Send**: What keeps you going?  
+**Mhik**: [It’s] my stress reliever I also enjoy the company. Gusto ko rin ma-overcome fear ko sa heights and makakuha ng gold sa international competitions.
 
 **Send**: What is the biggest climbing related challenge you've faced and how did you overcome this?  
 **Mhik**: Competing on speed kahit walang practice masyado. I almost gave up dahil nahihiya ako sa bagal ko mag climb, but nilaban ko lang and [I] pushed myself. Nagawa ko naman bumilis kahit papano. 
@@ -308,10 +310,11 @@ Home gym: Power Up Diliman/Tandang Sora*
 **Mhik**: Bouldering
 
 **Send**: What are your current goals now?  
-**Mhik**: Makapag-uwi ng gold para sa Pilipinas sa mga International competitions
+**Mhik**: Makapag-uwi ng gold para sa Pilipinas sa mga international competitions.
 
 **Send**: How does it feel to be part of the national climbing team?  
 **Mhik**: Ka-proud
+
 
 
 </div>
@@ -339,29 +342,29 @@ Home gym: Power Up Centro Atletico*
 **Jo**: I started climbing in late 2012.
 
 **Send**: Why did you start climbing?  
-**Jo**: I tried it once or twice with friends, pero it really stuck when I was in law school. Like, I had no other way to release my stress. I used to play ultimate frisbee and then all the schedules kasi of training of ultimate are like 8-10pm and I have night class. And then Ces made a general invite; the day she brought me to the gym, she was crushing like the routes, 5.10as, ganon. Tapos nainggit ako, parang wow ang galing ni Ces agad. Sabi ko, sige, but I tried the route, and I couldn’t do it so it made me come back and try it again. The next time I could do it, and then naging addictive na lang sya. So I’ll try something harder and then hindi ko siya magawa so I’ll train and come back and try it again, and then Kuya Mackie came into the picture and he taught me the techniques, made everything easier, and wala, talagang na-addict na lang ako.
+**Jo**: I tried it once or twice with friends, pero it really stuck when I was in law school. I had no other way to release my stress. I used to play ultimate frisbee and then all the schedules kasi of training of ultimate are like 8-10pm and I have night class. And then, Ces made a general invite; the day she brought me to the gym, she was crushing the routes, 5.10as, ganon. Tapos nainggit ako, parang wow ang galing ni Ces agad. Sabi ko, sige, but I tried the route, and I couldn’t do it so it made me come back and try it again. The next time, I could do it, and then naging addictive na lang sya. So I’ll try something harder and then hindi ko siya magawa so I’ll train and come back and try it again. Then Kuya Mackie came into the picture and he taught me the techniques, made everything easier, and wala, talagang na-addict na lang ako.
 
 **Send**: What's your favorite part about climbing?  
-**Jo**: It’s such a different sport, it’s such a diverse sport. Dati yung sports ko were swimming, running, those movements na very repetitive, very boring. When it comes to climbing, different yung movements. There’s no one same move, and every route is different. You also use your mind. So I think my favorite part of it is that it’s so different and when I’m climbing, my mind just goes blank. And then nothing else matters, just the climb.
+**Jo**: It’s such a different sport, it’s such a diverse sport. Dati yung sports ko were swimming, running, those movements na very repetitive, very boring. When it comes to climbing, different ‘yung movements. There’s no one same move, and every route is different. You also use your mind. So I think my favorite part of it is that it’s so different and when I’m climbing, my mind just goes blank. And then nothing else matters, just the climb.
 
 **Send**: What keeps you going?  
 **Jo**: It’s fun! I love the sport, I love climbing. Parang that’s the root of everything, when people ask me why I do it. Because I love climbing.
 
 **Send**: What is the biggest climbing related challenge you've faced and how did you overcome this?  
-**Jo**: I was generally an outdoor climber since two or three years ago, and then I turned competition and I sucked. My first international competition, I did so bad, and I remember almost crying to Tito Miel because it was really bad. And then doon ko na-realize na okay, I’ve been sticking to my comfort zone for the longest time, which was outdoor climbing. My biggest challenge was getting into competition climbing, because it’s so different, you have to have completely different mindset, it’s very emotional, it’s very tiring. And there’s so much pressure, especially if you’re national team, people expect you to perform, sponsors expect you to do well, so you have to keep in mind din your sponsors and the support of the community. Competition climbing talaga is a challenge but slowly and steadily, I’m getting there, I’m getting my rhythm of competition climbing, learning how to mentally train. Because physically, I don’t think it’s a problem, like it’s easy to train your physical side, it’s the mental which really gets to you.  Imagine trying to climb in front of a crowd that’s cheering. It will really get to you, and you can’t help it but sometimes you choke. But I’m learning to get over it, I’m learning to steadily relax my mind.
-
+**Jo**: I was generally an outdoor climber since two or three years ago, and then I turned competition and I sucked. My first international competition, I did so bad, and I remember almost crying to Tito Miel because it was really bad. And then doon ko na-realize na okay, I’ve been sticking to my comfort zone for the longest time, which was outdoor climbing. My biggest challenge was getting into competition climbing, because it’s so different. You have to have a completely different mindset- it’s very emotional, it’s very tiring. And there’s so much pressure, especially if you’re national team. People expect you to perform, sponsors expect you to do well, so you have to keep [them] in mind. Competition climbing is a challenge but slowly and steadily, I’m getting there. I’m getting my rhythm of competition climbing, learning how to mentally train. Because physically, I don’t think it’s a problem, like, it’s easy to train your physical side- it’s the mental which really gets to you.  Imagine trying to climb in front of a crowd that’s cheering. It will really get to you, and you can’t help it but sometimes you choke. But I’m learning to get over it, I’m learning to steadily relax my mind.
 
 **Send**: What's your favorite kind of hold and why?  
-**Jo**: I like crimps, I love crimps, like I could rest on a crimp. I have really strong finger strength. I remember I was doing hangboards, and Kuya Mackie told me, like “wag ka muna mag weights until naka-two years ka ng climb.” On my second year, sakto, I started doing weights, and I think that really helped me, hanging with weights. That really helped my fingers get strong, and now crimps are like a jug to me.
+**Jo**: I like crimps, I love crimps, I could rest on a crimp. I have really strong fingers. I remember I was doing hangboards, and Kuya Mackie told me, like “wag ka muna mag weights until naka-two years ka ng climb.” On my second year, sakto, I started doing weights, and I think that really helped me, hanging with weights. That really helped my fingers get strong, and now crimps are like a jug to me.
 
 **Send**: What is your favorite type of climbing?  
 **Jo**: Lead climbing, outdoor, on real rock.
 
 **Send**: What are your current goals now?  
-**Jo**: right now I’m aiming to strengthen all of my weaknesses. After every competition you realize what your weakness is because the problems always vary and sometimes, one problem will determine whether or not you make it to finals or semis. Usually, that problem is the problem which you’re weakest on. Right now I’m focusing on strengthening my weaknesses and strengthening my mental game.
+**Jo**: Right now I’m aiming to strengthen all of my weaknesses. After every competition you realize what your weakness is because the problems always vary and sometimes, one problem will determine whether or not you make it to finals or semis. Usually, that problem is the problem which you’re weakest on.
 
 **Send**: How does it feel to be part of the national climbing team?  
 **Jo**: It’s a very humbling experience. People think na it’s like, glitz and glamour, but no, it’s really really hard work. You have to balance training, you have to balance fundraising, because we don’t have any support from the government. I also manage the team. It’s very humbling because when you’re put against people abroad, you realize, okay, you may be one of the best in the Philippines, but you’re so far from everyone else in the world. But it makes me want to train harder, makes me want to push myself. 
+
 
 
 </div>
@@ -385,8 +388,11 @@ Home gym: Viajero 2000*
 
 ***
 
+**Send**: When did you start climbing?  
+**Liana**: I was 10 years old.
+
 **Send**: Why did you start climbing?  
-**Liana**: It was a family bonding thing then I got interested and competitive with the sport. Sadly I had to stop because it was too far from where I lived. I started again in college, at Power Up climbing gym, Tandang Sora.
+**Liana**: It was a family bonding thing then I got interested and competitive with the sport. Sadly, I had to stop because it was too far from where I lived. I started again in college, at Power Up climbing gym, Tandang Sora.
 
 **Send**: What's your favorite part about climbing?  
 **Liana**: When I climb I constantly challenge myself and my capabilities. It's not a competition against other people. For me, it’s a competition against myself and my limitations. Every time I exceed my limits, I feel successful and happy.
@@ -395,7 +401,7 @@ Home gym: Viajero 2000*
 **Liana**: I climb because I feel comfortable with the sport. I feel that my brain and my physical capabilities are constantly being pushed and I like the challenge.
 
 **Send**: What is the biggest climbing related challenge you've faced and how did you overcome this?  
-**Liana**: Last June 2018 I had a competition in Thailand. It was the Asian Cup. Two weeks before the competition, I had a really bad fall and my heel was injured. I couldn't walk properly and I could not put weight on my foot. I had to use crutches for a week and a cane for the next week. I left the Philippines with an injury. My brother aided me in getting to Thailand. Despite my injury I still competed. I had lesser expectations and I just wanted to enjoy my climb, despite the injury. I was more careful with my movements and my falls to avoid landing on my heel. This was the worst injury I had. But because of this, I was more focused and I carefully planned all my movements. I was not pressured to win, I was not stressed out. This enabled me to realize all the emotions that restrained my previous performances. At the last route, my heel was very painful. I still went on until the last second. When the buzzer rang I asked my brother to carry me to a seat because it was too painful to walk on. Despite this, I was able to finish 8th place in this competition. I was happy with the result. I did not expect to land so high being injured. 
+**Liana**: Last June 2018 I had a competition in Thailand- it was the Asian Cup. Two weeks before the competition, I had a really bad fall and my heel was injured. I couldn't walk properly and I could not put weight on my foot. I had to use crutches for a week and a cane for the next week. I left the Philippines with an injury, and my brother aided me in getting to Thailand. Despite my injury, I still competed. I had lesser expectations and I just wanted to enjoy my climb. I was more careful with my movements and my falls to avoid landing on my heel. This was the worst injury I had. But because of this, I was more focused and I carefully planned all my movements. I was not pressured to win, I was not stressed out. This enabled me to realize all the emotions that restrained my previous performances. At the last route, my heel was very painful. I still went on until the last second. When the buzzer rang I asked my brother to carry me to a seat because it was too painful to walk on. Despite this, I was able to finish 8th place in this competition. I was happy with the result. I did not expect to land so high being injured. 
 
 **Send**: What's your favorite kind of hold and why?  
 **Liana**: Crimps, because they are friendly to me. I have small hands and can hold tiny holds. I think my fingers are quite strong as well because of the tiny holds.
@@ -408,6 +414,7 @@ Home gym: Viajero 2000*
 
 **Send**: How does it feel to be part of the national climbing team?  
 **Liana**: I feel honored and privileged. It has opened so many doors of opportunity for me. I also am glad that I am in the team with my brother. It makes the journey less lonely because we're both from the province.
+
 
 
 </div>
@@ -445,7 +452,7 @@ Home gym:  Power Up Centro Atletico*
 **Rochelle**: In climbing for me, it’s always challenging. There’s always something new to try, there’s always something to do, something to beat. You always have to go beyond what you can do. It’s never ending, it’s always challenging.
 
 **Send**: What is the biggest climbing related challenge you've faced and how did you overcome this?  
-**Rochelle**: Siguro lead outdoors, because I’m afraid of heights. For me, it takes time and practice to overcome the fear of falling, doon ako natatakot eh. Sa outdoor, siguro pinupush ko lang yung sarili ko to finish the route, to try it and not to be scared, kahit na takot na takot ako. Ayun minsan, umiiyak ako. You just have to take the risk of falling and falling and falling hanggang masanay ka and ma-psyche mo sarili mo na it’s okay to fall.
+**Rochelle**: Siguro lead outdoors, because I’m afraid of heights. For me, it takes time and practice to overcome the fear of falling- doon ako natatakot eh. Sa outdoor, siguro pinupush ko lang yung sarili ko to finish the route, to try it and not to be scared, kahit na takot na takot ako. You just have to take the risk of falling and falling and falling hanggang masanay ka and ma-psych mo sarili mo na it’s okay to fall.
 
 **Send**: What's your favorite kind of hold and why?  
 **Rochelle**: Jugs. 
@@ -458,6 +465,7 @@ Home gym:  Power Up Centro Atletico*
 
 **Send**: How does it feel to be part of the national climbing team?  
 **Rochelle**: Of course I feel proud, I feel thankful. I feel proud kasi not everyone gets to be in this position and gets to be in the Philippine team, so I’m really happy kasi in spite of my experience, nakapasok ako sa team
+
 
 </div>
 </section>
@@ -480,10 +488,10 @@ Home gym: Power Up Tandang Sora*
 ***
 
 **Send**: When did you start climbing?  
-**Juvelle**:  3 years ago.
+**Juvelle**: Three years ago.
 
 **Send**: Why did you start climbing?  
-**Juvelle**: Since I was 5 years old, I loved climbing trees, roofs, windows and anything I see that is potentially climbable. Even as an adult, when my hubby and I are on vacation, no mather on an island or in the mountains, I would look for trees to climb. I didn’t know that there was indoor climbing and that climbing was a sport until a friend took us to Power Up Tandang Sora three years ago. Since then, I haven’t stopped climbing (indoors and outdoors)
+**Juvelle**: Since I was five years old, I loved climbing trees, roofs, windows and anything that is potentially climbable. Even as an adult, when my hubby and I are on vacation, on an island or in the mountains, I would look for trees to climb. I didn’t know that there was indoor climbing and that climbing was a sport until a friend took us to Power Up Tandang Sora three years ago. Since then, I haven’t stopped climbing (indoors and outdoors).
 
 **Send**: What's your favorite part about climbing?  
 **Juvelle**: The intensity, community and never-ending learning process. It’s my way of life. I just don’t see myself doing anything else. 
@@ -492,7 +500,7 @@ Home gym: Power Up Tandang Sora*
 **Juvelle**: My love of the outdoors and climbing are endless. Climbing gives me clarity and freedom and a chance to discover a new country and its people through its rock and indoor climbing. That’s pretty cool!
 
 **Send**: What is the biggest climbing related challenge you've faced and how did you overcome this?  
-**Juvelle**: Mental game during competition has been a challenge. Because I generally seek quiet places like when climbing outdoors, I haven’t been exposed to crowds. I also never competed individually growing up (did a bit of volleyball in HS). Comps are new to me. I had to overcome numerous mental challenges. So I decided to fix this by reading a few “mental game” books and watching videos and I would try to practice what I had learned during my training sessions. As a result of this, my anxiety has lessened and am able to control it. It’s getting better after each competition.
+**Juvelle**: Mental game during competition has been a challenge. Because I generally seek quiet places like when climbing outdoors, I haven’t been exposed to crowds. I also never competed individually growing up. Comps are new to me. I had to overcome numerous mental challenges. So I decided to fix this by reading a few “mental game” books and watching videos and I would try to practice what I had learned during my training sessions. As a result of this, my anxiety has lessened and am able to control it. It’s getting better after each competition.
 
 **Send**: What's your favorite kind of hold and why?  
 **Juvelle**: Initially, I loved crimps. Indoors, outdoors, give me crimps! But when I started training, I was exposed to more different types of holds and I started to enjoy them all. I get really excited if I discover a new type of hold. So my answer is I like all types of holds! 
@@ -504,7 +512,8 @@ Home gym: Power Up Tandang Sora*
 **Juvelle**: To be able to represent the Philippines in the 2020 Olympics and inspire Filipinas to go for their dreams and climb even harder.
 
 **Send**: How does it feel to be part of the national climbing team?  
-**Juvelle**: It’s awesome because it allows me to represent the PH and compete with the best which is one of my goals. 
+**Juvelle**: It’s awesome because it allows me to represent the Philippines and compete with the best.
+
 
 
 </div>
@@ -544,17 +553,18 @@ Home gym: Power Up Cubao (Centro Atletico)*
 **Send**: What is the biggest climbing related challenge you've faced and how did you overcome this?  
 **Erika**: My biggest challenge is the mental training, which is still something I’m working to this day. I easily get sucked into hesitation during hard moves. The ongoing solution to this remains to be—“keep on climbing”.
 
-**Send**: What's your favorite kind of hold and why?   
+**Send**: What's your favorite kind of hold and why?  
 **Erika**: Crimps. Small but terrible, hehe.
 
 **Send**: What is your favorite type of climbing?  
 **Erika**: I enjoy sport climbing. I like its steady pace, it gets me into this focused mode.
 
-**Send**: What are your current goals now?  
+**Send**: What are your current goals now?   
 **Erika**: Strengthen to climb harder routes! Also work on dynos.
 
 **Send**: How does it feel to be part of the national climbing team?  
 **Erika**: Both proud and blessed. I am learning a lot training from my teammates, and I hope to bring out the best that I can to represent the flag. 
+
 
 
 </div>
