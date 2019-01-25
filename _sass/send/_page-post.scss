@@ -215,6 +215,10 @@
 			display: inline-block;
 			margin-left: 1em;
 		}
+
+		@media screen and (max-width: $small-device) {
+			margin: 0;
+		}
 	}
 
 	.sharer {
