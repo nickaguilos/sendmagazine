@@ -4,7 +4,7 @@ title: "Lust for Lime XIV"
 author: Lilay Marquez
 tag: photo-feature
 description: Lust for Lime has been the annual go to rock trip to the crags of Cebu. Lilay Marquez captures the moments of the 13th rendition of this event 
-image: /assets/images/issue-1/nationals/1.jpg
+image: /assets/images/issue-2/l4l/1.jpg
 ---
 
 Lust for Lime has been the go to rocktrip in the Philippines to date. We ask Lilay Marquez, a local adventure photographer from Cebu to show us what the 14th Lust for Lime looked through her lens
