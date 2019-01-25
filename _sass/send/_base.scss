@@ -45,6 +45,17 @@ img {
 	pointer-events: none;
 }
 
+#ad {
+	grid-column: 2/12;
+	a {
+		display: block;
+		&:hover {
+			opacity: 0.8;
+		}
+	}
+}
+
+
 
 // Text Styles
 

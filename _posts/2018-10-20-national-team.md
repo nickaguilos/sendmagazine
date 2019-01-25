@@ -185,10 +185,10 @@ Recovering from an injury affects me mentally as well. I need to keep myself mot
 	
 ### John Joseph Veloria
 
-*Name: John Joseph Veloria
-Hometown: Quezon City
-Age: 26
-Occupation: Climbing Instructor and Route setter
+*Name: John Joseph Veloria  
+Hometown: Quezon City  
+Age: 26  
+Occupation: Climbing Instructor and Route setter  
 Home gym: Power Up Tandang Sora*
 
 ***
@@ -327,10 +327,10 @@ Home gym: Power Up Diliman/Tandang Sora*
 
 ### Joanne Ala
 
-*Name: Joanne Ala
-Hometown: Iloilo
-Age: 26
-Occupation: Lawyer
+*Name: Joanne Ala  
+Hometown: Iloilo  
+Age: 26  
+Occupation: Lawyer  
 Home gym: Power Up Centro Atletico*
 
 ***

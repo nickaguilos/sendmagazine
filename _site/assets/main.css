@@ -38,6 +38,13 @@ img {
   width: 100%;
   pointer-events: none; }
 
+#ad {
+  grid-column: 2/12; }
+  #ad a {
+    display: block; }
+    #ad a:hover {
+      opacity: 0.8; }
+
 p {
   font-family: "freight-text-pro", serif;
   line-height: 1.5em; }
@@ -280,12 +287,6 @@ blockquote {
       @media screen and (max-width: 1000px) {
         .home #featured .content {
           margin-top: 0; } }
-  .home #ad {
-    grid-column: 2/12; }
-    .home #ad a {
-      display: block; }
-      .home #ad a:hover {
-        opacity: 0.8; }
   .home .post-list {
     grid-column: 2/12;
     list-style: none;
@@ -533,6 +534,7 @@ blockquote {
           flex: 60%; } }
       #natl-team > section div:first-child > p {
         position: sticky;
+        position: -webkit-sticky;
         top: 0; }
     #natl-team > section div:nth-child(2) {
       flex: 75%;

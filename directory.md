@@ -168,4 +168,8 @@ image: /assets/images/og-image.jpg
 			We want to provide a very comprehensive list of indoor climbing facilities all over the country. If you have a gym you want us to list here, please send us an email via the <strong><a href="contact.html">Contact Page</a></strong>.
 		</p>
 	</div>
+
+	<hr>
+	{%- include ad.html -%}
+
 </div>
