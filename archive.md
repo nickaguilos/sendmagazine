@@ -13,7 +13,7 @@ image: /assets/images/og-image.jpg
 	        <span class="author">{{ post.author }}</span> &middot;
 	        <span class="post-meta">{{ post.date | date_to_long_string }}</span>
 	    </div>
-	    <p>{{ post.excerpt }}</p>
+	    <p>{{ post.description }}</p>
 	</div>
 	{% endfor %}
 </div>

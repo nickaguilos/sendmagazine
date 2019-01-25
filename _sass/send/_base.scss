@@ -1,11 +1,17 @@
 html {
 	box-sizing: border-box;
 	font-family: $copy-font-family;
-	font-size: 16px;	
+	font-size: 18px;	
 }
 
 body {
 	margin: 0;
+}
+
+hr {
+	margin: 3em 0;
+	border: 0;
+	border-bottom: 5px solid $dark-border-color;
 }
 
 .iframe-wrapper {
@@ -39,6 +45,17 @@ img {
 	pointer-events: none;
 }
 
+#ad {
+	grid-column: 2/12;
+	a {
+		display: block;
+		&:hover {
+			opacity: 0.8;
+		}
+	}
+}
+
+
 
 // Text Styles
 
@@ -68,18 +85,23 @@ a {
 
 .section-heading {
 	@extend h4;
-	font-family: 'acumin-pro-condensed', sans-serif;
+	font-family: $base-font-family;
 	text-transform: uppercase;
-	font-size: 1.5em !important;
+	color: $highlight-color;
 }
 
 .subtitle {
-	font-style: italic;
+	font-weight: 200;
 }
 
 .date-author {
 	opacity: 0.5;
-	font-family: $copy-font-family;
+	font-family: $base-font-family;
+}
+
+.subtext {
+	font-size: 16px;
+	color: #555;
 }
 
 // Forms 

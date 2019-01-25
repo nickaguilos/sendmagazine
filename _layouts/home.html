@@ -7,15 +7,15 @@ layout: default
     
     <div id="featured">
         {% for post in site.tags.featured %}
-        <div class="flex-wrapper">
+        <div class="inner-wrapper">
             <div class="image" {% if post.image %} style="background-image: url('{{ post.image }}')" {% endif %}>
                 <a href="{{ post.url }}">
                     <!-- <img src="{{ site.baseurl }}/assets/images/homepage/featured-bukidnon.jpg" alt=""> -->
                 </a>
             </div>
             <div class="content">
-                <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                <h4 class="subtitle"><a href="{{ post.url }}">{{ post.subtitle }}</a></h4>
+                <h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+                <h3 class="subtitle"><a href="{{ post.url }}">{{ post.subtitle }}</a></h3>
                 <div class="date-author">
                     <span class="author">{{ post.author }}</span> &middot;
                     <span class="post-meta">{{ post.date | date_to_long_string }}</span>
@@ -32,31 +32,73 @@ layout: default
 
     <!-- Support Articles -->
     <div class="second-row-posts post-list">
-        <h2 class="section-heading">More Articles</h2>
+        <!-- <h2 class="section-heading">More Articles</h2> -->
         
         <div class="article-wrapper flex-wrapper">
             {% for post in site.tags.other-articles limit:2 %}
             <div class="article">
-                <div>
-                    <h3>
-                        <a class="post-link" href="{{ post.url | relative_url }}">
-                            {{ post.title | escape }}
+                <div class="flex-wrapper inner-wrapper">
+                    <div class="img-wrapper">
+                        {% if post.image %}
+                        <a href="{{ post.url | relative_url }}">
+                            <img src="{{ post.image }}" alt="">
                         </a>
-                    </h3>
-                    <div class="date-author">
-                        <span class="author">{{ post.author }}</span> &middot;
-                        <span class="post-meta">{{ post.date | date_to_long_string }}</span>
+                        {% endif %}
                     </div>
-                    
-                    <p>
-                        {{ post.description }}
-                    </p>
+                    <div class="content">
+                        <h3>
+                            <a class="post-link" href="{{ post.url | relative_url }}">
+                                {{ post.title | escape }}
+                            </a>
+                        </h3>
+                        <div class="date-author">
+                            <span class="author">{{ post.author }}</span> &middot;
+                            <span class="post-meta">{{ post.date | date_to_long_string }}</span>
+                        </div>
+                        
+                        <p>
+                            {{ post.description }}
+                        </p>
+                    </div>
                 </div>
             </div>
             {% endfor %}
         </div>
     </div>
-    <!-- End Support Articles -->
+
+    <div class="second-row-posts post-list">
+        <div class="article-wrapper flex-wrapper">
+            {% for post in site.tags.other-articles limit:2 offset:2 %}
+            <div class="article">
+                <div class="flex-wrapper inner-wrapper">
+                    <div class="img-wrapper">
+                        {% if post.image %}
+                        <a href="{{ post.url | relative_url }}">
+                            <img src="{{ post.image }}" alt="">
+                        </a>
+                        {% endif %}
+                    </div>
+                    <div class="content">
+                        <h3>
+                            <a class="post-link" href="{{ post.url | relative_url }}">
+                                {{ post.title | escape }}
+                            </a>
+                        </h3>
+                        <div class="date-author">
+                            <span class="author">{{ post.author }}</span> &middot;
+                            <span class="post-meta">{{ post.date | date_to_long_string }}</span>
+                        </div>
+                        
+                        <p>
+                            {{ post.description }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <!-- End Support Articles --> 
 
     <!-- Featured Photo Post -->
     {% for post in site.tags.photo-feature %}
@@ -75,40 +117,58 @@ layout: default
 
         <div class="img-row">
             <a href="{{ post.url | relative_url }}">
-                <img src="assets/images/homepage/featured-photo-1.jpg" alt="">
+                <img src="assets/images/issue-2/l4l/1.jpg" alt="Lust for lime cover image">
             </a>
+
             <a href="{{ post.url | relative_url }}">
-                <img src="assets/images/homepage/featured-photo-2.jpg" alt="">
+                <img src="assets/images/issue-2/l4l/2.jpg" alt="Lust for lime cover image">
             </a>
         </div>
+
+        <a href="{{ post.url | relative_url }}" class="button">
+            View Photo Story
+        </a>
     </section>
     {% endfor %}
 
+
     <!-- Support Articles -->
     <div class="third-row-posts post-list">
-        <div class="article-wrapper flex-wrapper">
-            {% for post in site.tags.other-articles offset:2 %}
+        <div class="article-wrapper grid-wrapper">            
+            {% for post in site.tags.other-articles offset:4 %}
             <div class="article">
-                <div>
-                    <h3>
-                        <a class="post-link" href="{{ post.url | relative_url }}">
-                            {{ post.title | escape }}
+                <div class="flex-wrapper inner-wrapper">
+                    <!-- <div class="img-wrapper">
+                        {% if post.image %}
+                        <a href="{{ post.url | relative_url }}">
+                            <img src="{{ post.image }}" alt="">
                         </a>
-                    </h3>
-                    <div class="date-author">
-                        <span class="author">{{ post.author }}</span> &middot;
-                        <span class="post-meta">{{ post.date | date_to_long_string }}</span>
+                        {% endif %}
+                    </div> -->
+                    <div class="content">
+                        <h3>
+                            <a class="post-link" href="{{ post.url | relative_url }}">
+                                {{ post.title | escape }}
+                            </a>
+                        </h3>
+                        <div class="date-author">
+                            <span class="author">{{ post.author }}</span> &middot;
+                            <span class="post-meta">{{ post.date | date_to_long_string }}</span>
+                        </div>
+                        
+                        <p>
+                            {{ post.description }}
+                        </p>
                     </div>
-                    
-                    <p>
-                        {{ post.description }}
-                    </p>
                 </div>
             </div>
             {% endfor %}
         </div>
+        <hr>
     </div>
     <!-- End Support Articles -->
+
+    {%- include ad.html -%}
 </div>
 
 <div class="more-loader">

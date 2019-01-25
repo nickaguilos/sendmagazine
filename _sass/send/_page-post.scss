@@ -8,7 +8,7 @@
 
 	.post-header {
 		text-align: center;
-		padding: 3rem 0;
+		padding-top: 3rem;
 
 		&.with-background {
 			min-height: 300px;
@@ -27,6 +27,11 @@
 		margin: 0;
 	}
 
+	.post-meta {
+		font-family: $base-font-family;
+		margin: 1em 0;
+	}
+
 	// For Captions
 	img + em, .image-row + p > em {
 		font-size: 0.8em;
@@ -43,21 +48,39 @@
 		margin: -3em 0 2em 0;
 	}
 
-	.post-content, #related-post {
+	img.floated-left {
+		float: left;
+		width: 50%;
+		margin: 0 1em 1em 0;
+		border: 5px solid #eee;
+	}
+
+	img.floated-right {
+		float: right;
+		width: 50%;
+		margin: 0 0 1em 1em;
+		border: 5px solid #eee;
+	}
+
+	.post-content, #related-post .inner-wrapper {
 		max-width: 700px;
 		margin: 0 auto;
 
 		.pre-text {
 			font-size: 1.5rem;
 			margin-bottom: 2rem;
-			font-weight: 400;
+			font-weight: bold;
 			text-align: center;
+		}
+
+		h3 {
+			
 		}
 
 		p, h5 {
 			margin: 1.5rem auto;
 			max-width: 700px;
-			font-family: $article-font-family;
+			font-family: $copy-font-family;
 		}
 
 		h5 {
@@ -82,41 +105,46 @@
 		}
 	}
 
+	.emphasis {
+		border: 5px solid $dark-border-color;
+		padding: 20px;
+		margin: 70px 0;
+	}
+
 	#related-post {
 		padding: 3em 0;
 		margin-top: 5em;
-		border-top: 1px dotted $border-color;
-
+		border-top: 1px dotted -color;
+	    background-color: pink;
+	
 		@keyframes move-arrow {
 			from {
 				left: 0;
 			}
-
+	
 			to {
-				left: 5px;
+				left: 10px;
 			}
 		}
-
+	
 		.fas {
 			display: block;
 			position: relative;
 		}
-
+	
 		h3 {
 			margin: 0 0 -10px 0;
 		}
-
+	
 		a {
 			display: flex;
 			align-items: center;
-
-			&:hover {
-				color: $base-color !important;
-
+	
+			&:hover {	
 				h3 {
 					opacity: 0.5;
 				}
-
+	
 				.fas {
 					animation-name: move-arrow;
 					animation-duration: 0.5s;
@@ -150,6 +178,81 @@
 				p {
 					margin: 0 !important;
 				}
+			}
+		}
+
+		img.floated-left, img.floated-right {
+			float: none;
+			width: 95%;
+			margin: 0;
+		}
+
+		#related-post {
+			padding: 3em 1em;
+		}
+	}
+}
+
+
+// National Team Override
+#natl-team {
+	max-width: 100%;
+
+	#section-nav {
+		padding: 1em;
+		margin: 1em;
+		background-color: #fff;
+		border: 3px solid $dark-border-color;
+
+		overflow-x: scroll;
+		white-space: nowrap;
+
+		::-webkit-scrollbar {
+			display: none;
+		}
+
+		a {
+			display: inline-block;
+			margin-left: 1em;
+		}
+	}
+
+	.sharer {
+		max-width: 700px;
+		margin: 0 auto;
+	}
+	> section {
+		display: flex;
+		position: relative;
+
+		@media screen and (max-width: $small-device) {
+			flex-direction: column;
+
+			div:nth-child(2) {
+				margin-left: 0 !important;
+			}
+		}
+
+		div:first-child {
+			flex: 50%;
+
+			@media screen and (max-width: $medium-device) {
+				flex: 60%;
+			}
+
+			> p {
+				position: sticky;
+				position: -webkit-sticky;
+				top: 0;
+			}
+		}
+
+		div:nth-child(2) {
+			flex: 75%;
+			margin-left: 3em;
+
+			p {
+				margin-left: 0;
 			}
 		}
 	}
