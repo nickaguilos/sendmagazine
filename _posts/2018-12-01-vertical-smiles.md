@@ -78,4 +78,4 @@ Visit [Power Up Rock Outdoor Center](http://facebook.com/poweruproc) for the lat
 
 ***
 
-Additional editing by: Danisa Fuentebella
+Additional editing: Danisa Fuentebella
