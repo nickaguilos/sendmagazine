@@ -566,6 +566,6 @@ Home gym: Power Up Cubao (Centro Atletico)*
 **Erika**: Both proud and blessed. I am learning a lot training from my teammates, and I hope to bring out the best that I can to represent the flag. 
 
 
-
+<em>This article has been edited and condensed</em>
 </div>
 </section>
