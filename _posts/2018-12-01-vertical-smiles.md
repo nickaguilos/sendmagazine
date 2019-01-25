@@ -21,9 +21,9 @@ We create a community of people who share the same passions and interests, one t
 
 
 <div class="image-row 2 medium" markdown="1">
-![ {{ page.title }}]( {{'assets/images/issue-2/vertical-smiles/1.jpg' | absolute_url }})
+![ {{ page.title }}]( {{'/assets/images/issue-2/vertical-smiles/1.jpg' | relative_url }})
 
-![ {{ page.title }}]( {{'assets/images/issue-2/vertical-smiles/2.jpg' | absolute_url }})
+![ {{ page.title }}]( {{'/assets/images/issue-2/vertical-smiles/2.jpg' | relative_url }})
 </div>
 
 
@@ -34,7 +34,7 @@ I recall a conversation with Jezrel Soriaso, fondly called Papsy, who is one of 
 Power Up Rock Outdoor Center was struggling to grow it’s community.
 This took me by surprise as Adventure Central, a gym just across the channel, was thriving and welcomed a sheer number of climbers on a daily basis.
 
-![ {{ page.title }}]( {{'assets/images/issue-2/vertical-smiles/3.jpg' | absolute_url }})
+![ {{ page.title }}]( {{'/assets/images/issue-2/vertical-smiles/3.jpg' | relative_url }})
 
 In response, Bacolod’s climbers rallied together to bring attention to its gym that had become their home.
 
@@ -43,16 +43,16 @@ Early December of 2018, I flew to the City of Smiles to witness Power Up ROC’s
 <div class="image-row 2 medium" markdown="1">
 ![ {{ page.title }}]( {{'assets/images/issue-2/vertical-smiles/4.jpg' | absolute_url }})
 
-![ {{ page.title }}]( {{'assets/images/issue-2/vertical-smiles/5.jpg' | absolute_url }})
+![ {{ page.title }}]( {{'/assets/images/issue-2/vertical-smiles/5.jpg' | relative_url }})
 </div>
 
 During the competition, Zai Barrido served as the point person for the event. She explains that the objective of the gym was to expose climbing to a wider audience in Bacolod, and in effect, bring more climbers into the gym. Setting up the competition  was no easy task. She recalls the hurdles they had to go through to get this event up and running: sponsorships, logistics, and the like.
 
 A captivating trait the pinoy climbing community shares is its ability to support each other,  giving wholeheartedly without expecting anything in return. 
 
-![ {{ page.title }}]( {{'assets/images/issue-2/vertical-smiles/6.jpg' | absolute_url }})
+![ {{ page.title }}]( {{'/assets/images/issue-2/vertical-smiles/6.jpg' | relative_url }})
 
-![ {{ page.title }}]( {{'assets/images/issue-2/vertical-smiles/7.jpg' | absolute_url }})
+![ {{ page.title }}]( {{'/assets/images/issue-2/vertical-smiles/7.jpg' | relative_url }})
 
 The competition resulted to an overwhelming turnout. 64 participants registered for the event, many of those who had, did so to support and had no intention in competing.
 
@@ -60,15 +60,15 @@ In attendance was a large contingent from Iloilo, mostly comprised by their juni
 
 Vertical Smiles lasted way into the night and was capped with food, drinks, and conversations exchanged with familiar faces and new friends. Comps are 50% athleticism and 50% gatherings after all.
 
-![ {{ page.title }}]( {{'assets/images/issue-2/vertical-smiles/8.jpg' | absolute_url }})
+![ {{ page.title }}]( {{'/assets/images/issue-2/vertical-smiles/8.jpg' | relative_url }})
 
 It was an event that bore much fruit. Zai mentioned that proceeds from the competition would be used to fund the wall repainting jobs, purchasing of new holds, and community funds for new climbing hardware.
 Moreso, the competition breathed new life into an aging climbing gym in the Visayas. 
 
 
-![ {{ page.title }}]( {{'assets/images/issue-2/vertical-smiles/9.jpg' | absolute_url }})
+![ {{ page.title }}]( {{'/assets/images/issue-2/vertical-smiles/9.jpg' | relative_url }})
 
-![ {{ page.title }}]( {{'assets/images/issue-2/vertical-smiles/10.jpg' | absolute_url }})
+![ {{ page.title }}]( {{'/assets/images/issue-2/vertical-smiles/10.jpg' | relative_url }})
 
 Sometimes it has become standard to say an event was a success, even if the reality was otherwise. This time around it definitely was. 
 
