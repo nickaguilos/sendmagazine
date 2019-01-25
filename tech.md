@@ -29,6 +29,9 @@ permalink: tech-log
 		- Addition of new layout for featured article
 		- Final fixes for issue 2 release
 
+	January 25, 2019
+		- Release of Issue 2
+
 	*******
 
 	found a bug? send us a message via contact link in footer
