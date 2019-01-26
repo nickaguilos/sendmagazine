@@ -37,10 +37,9 @@ Get to know the members of the Philippine National Climbing Team through these m
 ### Gerald Verosil
 
 *Full name: Gerald Verosil  
-Age: 17 years old  
-Hometown: Manila, Philippines (now based in Singapore)
-Current residence  
-Gym you started climbing: Onsight Climbing Gym, Singapore*
+Age: 17   
+Hometown: Manila, Philippines (now based in Singapore)  
+Home Gym: Onsight Climbing Gym, Singapore*
 
 ***
 
@@ -282,7 +281,7 @@ Home Gym: Power Up Centro Atletico*
 
 *Name: Milky Mae Tejares  
 Hometown: Antique  
-Age: 32yo  
+Age: 32    
 Occupation: Operations Manager in Power Up Tandang Sora  
 Home gym: Power Up Diliman/Tandang Sora*
 
@@ -564,6 +563,8 @@ Home gym: Power Up Cubao (Centro Atletico)*
 
 **Send**: How does it feel to be part of the national climbing team?  
 **Erika**: Both proud and blessed. I am learning a lot training from my teammates, and I hope to bring out the best that I can to represent the flag. 
+
+<hr>
 
 
 <em>This article has been edited and condensed</em>
