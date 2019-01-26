@@ -124,14 +124,14 @@ A: Definitely! Number one, it’s a whole-body workout. Instead of being a couch
 
 <hr>
 
-![Grace](/assets/images/issue-2/gcd/5.jpg){:class="floated-right"}
-<h3>GRACE</h3>
+![Annemarie](/assets/images/issue-2/gcd/5.jpg){:class="floated-right"}
+<h3>Annemarie</h3>
 <div class="subtext">
 	Age: 31 <br>
 	Climbing XP: >1 time
 </div>
 
-August 18, 2018 was Grace Beasley’s first time climbing. Ever. As with most people, she suffers from a fear of heights. But instead of keeping her feet planted in the comfort zone that is the floor, she decided to give climbing a whirl. 
+August 18, 2018 was Annemarie Gomez's first time climbing. Ever. As with most people, she suffers from a fear of heights. But instead of keeping her feet planted in the comfort zone that is the floor, she decided to give climbing a whirl. 
 
 *“I just had my birthday so, you know, just try something new,”* she said. And that’s exactly what she did. 
 
